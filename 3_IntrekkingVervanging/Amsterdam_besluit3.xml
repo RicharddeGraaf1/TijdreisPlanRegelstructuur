@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.1.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/gm0363/2022/AmsterdamTweedeBesluit</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm0363/2022/AmsterdamTweedeBesluit/nld@2022</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0363</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <officieleTitel>Vaststelling van Omgevingsplan Gemeentestad (Zaltbommel)</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <!--<informatieobjectRef>/join/id/regdata/gm0363/2022/Burgwallen-Nieuwe_Zijde/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Burgwallen-Oude_Zijde/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Da_Costabuurt/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Dapperbuurt/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/De_Weteringschans/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Frederik_Hendrikbuurt/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Grachtengordel-West/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Grachtengordel-Zuid/nld@2022;1</informatieobjectRef>-->
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Haarlemmerbuurt/nld@2022;2</informatieobjectRef>
+            <!--<informatieobjectRef>/join/id/regdata/gm0363/2022/Helmersbuurt/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/IJplein_Vogelbuurt/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Indische_Buurt_Oost/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Indische_Buurt_West/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Jordaan/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Middenmeer/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Museumkwartier/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Nieuwmarkt_Lastage/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Noordelijke_IJ-oevers_Oost/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Noordelijke_IJ-oevers_West/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Oostelijk_Havengebied/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Oostelijke_Eilanden_Kadijken/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Oosterparkbuurt/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Oude_Pijp/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Staatsliedenbuurt/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Transvaalbuurt/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Van_Lennepbuurt/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Volewijck/nld@2022;1</informatieobjectRef>-->
+            <!--Intrekking--><!--<informatieobjectRef>/join/id/regdata/gm0363/2022/Vondelbuurt/nld@2022;1</informatieobjectRef>-->
+            <!--<informatieobjectRef>/join/id/regdata/gm0363/2022/Weesperbuurt_Plantage/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/Weesperzijde/nld@2022;1</informatieobjectRef>-->
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/MultiLijn/nld@2022;2</informatieobjectRef>
+            <!--<informatieobjectRef>/join/id/regdata/gm0363/2022/Lijn1/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/TweeLijnen/nld@2022;1</informatieobjectRef>-->
+            <!--Intrekking--><!--<informatieobjectRef>/join/id/regdata/gm0363/2022/Verdwlijn/nld@2022;1</informatieobjectRef>-->
+            <!--<informatieobjectRef>/join/id/regdata/gm0363/2022/LijnIntrVerv/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/PuntengroepOngewijzigd/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/PuntengroepNaamWijziging/nld@2022;1</informatieobjectRef>-->
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/PuntengroepLocatieWijziging/nld@2022;2</informatieobjectRef>
+            <!--Intrekking--><!--<informatieobjectRef>/join/id/regdata/gm0363/2022/PuntengroepBeeindiging/nld@2022;1</informatieobjectRef>-->
+            <!--<informatieobjectRef>/join/id/regdata/gm0363/2022/PuntengroepIntrekkenVervangen/nld@2022;1</informatieobjectRef>-->
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2019-12-17</bekendOp>
+         <procedurestappen>
+            <!-- Vaststelling -->
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2020-12-03</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2020-12-05</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm0363/2022/RegelingAmsterdam/nld@2</instrumentVersie>
+               <eId>art_I</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/Wijziging</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/Haarlemmerbuurt/nld@2022;2</instrumentVersie><eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId></BeoogdInformatieobject>
+            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/Wijziging</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/MultiLijn/nld@2022;2</instrumentVersie><eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1</eId></BeoogdInformatieobject>
+            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/Wijziging</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/PuntengroepLocatieWijziging/nld@2022;2</instrumentVersie><eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_38__ref_o_1</eId></BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Intrekkingen>
+            <Intrekking>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+               </doelen>
+               <instrument>/join/id/regdata/gm0363/2022/PuntengroepBeeindiging</instrument>
+               <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_39__ref_o_1</eId>
+            </Intrekking>
+            <Intrekking>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+               </doelen>
+               <instrument>/join/id/regdata/gm0363/2022/Verdwlijn</instrument>
+               <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1</eId>
+            </Intrekking>
+            <Intrekking>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+               </doelen>
+               <instrument>/join/id/regdata/gm0363/2022/Vondelbuurt</instrument>
+               <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1</eId>
+            </Intrekking>
+         </Intrekkingen>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2021-04-04</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Vaststelling van Omgevingsplan Gemeentestad (Zaltbommel)</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>De raad van de gemeente Gemeenstestad </Al>
+            <Al>gelezen het voorstel van burgemeester en wethouders van 26 juni 2019, nr. 2019-4542;</Al>
+            <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149" soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
+            <Al>besluit:</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="gm0363_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Wat>Het omgevingsplan Amsterdam opgenomen in <IntRef ref="cmp_A" scope="WijzigBijlage">Bijlage A</IntRef> kan worden vastgesteld.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="gm0363_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit besluit treedt in werking per 1 januari 2021.</Al>
+               </Inhoud>
+            </Artikel>
+            <Artikel eId="art_III" wId="gm0363_1__art_III">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>III</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Het omgevingsplan van rechtswege vervalt voor het Pons-informatieobject van dit artikel.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>Gegeven te Kaap Doorn, Gemeentestad, 3 december 2019</Al>
+            <Ondertekening>
+               <Al>Dio ft. Sef - Tijdmachine</Al>
+            </Ondertekening>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_A" wId="gm0363_1__cmp_A">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>A</Nummer>
+               <Opschrift>Bijlage bij artikel I</Opschrift>
+            </Kop>
+            <RegelingMutatie componentnaam="wijziging" was="/akn/nl/act/gm0363/2022/RegelingAmsterdam/nld@1" wordt="/akn/nl/act/gm0363/2022/RegelingAmsterdam/nld@2">
+               <VervangRegeling>
+                  <RegelingCompact>
+                     <RegelingOpschrift eId="longTitle" wId="longTitle">
+                        <Al>omgevingsplan RANDSTAD!!! (omgevingsplan Amsterdam)</Al>
+                     </RegelingOpschrift>
+                 <Lichaam eId="body" wId="body">
+                  <Hoofdstuk eId="chp_1" wId="gm0363_1__chp_1">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>1</Nummer>
+                        <Opschrift>Algemene bepalingen</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_1__art_1.4" wId="gm0363_1__chp_1__art_1.4">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>1.4</Nummer>
+                           <Opschrift>Toepassingsgebied</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit omgevingsplan is van toepassing in Amsterdam.</Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+                  <Hoofdstuk eId="chp_2" wId="gm0363_1__chp_2">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>2</Nummer>
+                        <Opschrift>ActiviteitTijdreizen</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_2__art_2.1" wId="gm0363_1__chp_2__art_2.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>2.1</Nummer>
+                           <Opschrift>ActiviteitOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al> Het is toegestaan om te wonen in <IntIoRef eId="chp_2__art_2.1__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.1__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Burgwallen-Nieuwe Zijde</IntIoRef> [Deze activiteit wijzigt niet] </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_2__art_2.2" wId="gm0363_1__chp_2__art_2.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>2.2</Nummer>
+                           <Opschrift>ActiviteitNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Het is verboden om te zwemmen in <IntIoRef eId="chp_2__art_2.2__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.2__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1">Middenmeer</IntIoRef> [NaamWijziging] Na 2021-04-04 is het verboden om te zwemmen zonder zwemvliezen. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_2__art_2.3" wId="gm0363_1__chp_2__art_2.3">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>2.3</Nummer>
+                           <Opschrift>ActiviteitLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Het is toegestaan om te vissen in de <IntIoRef eId="chp_2__art_2.3__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.3__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1">Jordaan</IntIoRef>. [LocatieWijziging] Na 2021-04-04 is het toegestaan om te vissen in de Jordaan, maar ook in de Indische buurt (oost en west). </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_2__art_2.4" wId="gm0363_1__chp_2__art_2.4">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>2.4</Nummer>
+                           <Opschrift>ActiviteitBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Het is toegestaan om te zingen in de <IntIoRef eId="chp_2__art_2.4__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.4__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1">Oude Pijp</IntIoRef>. [Beëindigen] Na 2021-04-04 is deze activiteit verwijderd en is er niets geregeld over het zingen in de pijp. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_2__art_2.5" wId="gm0363_1__chp_2__art_2.5">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>2.5</Nummer>
+                           <Opschrift>ActiviteitWijzigingIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Het is verboden om te skiën in de <IntIoRef eId="chp_2__art_2.5__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.5__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">De Weteringschans</IntIoRef>. [Intrekken en Vervangen] Na 2021-07-07 is deze activiteit aangepast, en dan is het toegestaan om te skiën. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_2__art_2.6" wId="gm0363_1__chp_2__art_2.6">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>2.6</Nummer>
+                           <Opschrift>ActiviteitBeeindigingNavIntrVerv</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Het is verboden om te mountainbiken in de <IntIoRef eId="chp_2__art_2.6__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.6__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Burgwallen-Oude Zijde</IntIoRef>. [Intrekken en Vervangen en Beëindiging] Na 2021-07-07 is deze activiteit beëindigd, en dan zijn er geen regels over mountainbiken. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_2__art_2.7" wId="gm0363_1__chp_2__art_2.7">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>2.7</Nummer>
+                           <Opschrift>ActiviteitHerleven</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Het is verboden om te wandelen in de <IntIoRef eId="chp_2__art_2.7__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.7__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">De Dapperbuurt</IntIoRef>. [Beëindigen] Na 2021-04-04 is deze activiteit beëindigd. [Intrekken en Vervangen] Na 2021-07-07 is deze activiteit aangepast, en dan is het toegestaan om te wandelen. </Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+                  <Hoofdstuk eId="chp_3" wId="gm0363_1__chp_3">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>3</Nummer>
+                        <Opschrift>GebiedsaanwijzingsTijdreizen</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_3__art_3.1" wId="gm0363_1__chp_3__art_3.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>3.1</Nummer>
+                           <Opschrift>GebiedsaanwijzingOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.1__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.1__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1">Grachtengordel-West</IntIoRef>. [Deze gebiedsaanwijzing wijzigt niet] </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_3__art_3.2" wId="gm0363_1__chp_3__art_3.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>3.2</Nummer>
+                           <Opschrift>GebiedsaanwijzingNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.2__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.2__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Grachtengordel-Zuid</IntIoRef> [NaamWijziging] Na 2021-04-04 heet de Gebiedsaanwijzing Grachtengordel-maarDanDeZuidelijkeKant. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_3__art_3.3" wId="gm0363_1__chp_3__art_3.3">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>3.3</Nummer>
+                           <Opschrift>GebiedsaanwijzingLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.3__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.3__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1">Haarlemmerbuurt</IntIoRef>. [LocatieWijziging] Na 2021-04-04 verplaatsen we de Haarlemmerbuurt gewoon lekker naar Haarlem. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_3__art_3.4" wId="gm0363_1__chp_3__art_3.4">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>3.4</Nummer>
+                           <Opschrift>GebiedsaanwijzingBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Het is toegestaan om te zingen in de <IntIoRef eId="chp_3__art_3.4__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.4__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1">Vondelbuurt</IntIoRef>. [Beëindigen] Na 2021-04-04 is deze Gebiedsaanwijzing verwijderd en is het gebied niet getypeerd. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_3__art_3.5" wId="gm0363_1__chp_3__art_3.5">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>3.5</Nummer>
+                           <Opschrift>GebiedsaanwijzingWijzigingIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.5__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.5__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1">Museumkwartier</IntIoRef>. [Intrekken en Vervangen] Na 2021-07-07 is deze activiteit aangepast, en dan is het toegestaan om te skiën. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_3__art_3.6" wId="gm0363_1__chp_3__art_3.6">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>3.6</Nummer>
+                           <Opschrift>GebiedsaanwijzingBeeindigingNavIntrVerv</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.6__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.6__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Burgwallen-Oude Zijde</IntIoRef>. [Intrekken en Vervangen] Na 2021-07-07 is deze gebiedsaanwijzing beëindigd</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_3__art_3.7" wId="gm0363_1__chp_3__art_3.7">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>3.7</Nummer>
+                           <Opschrift>GebiedsaanwijzingHerleving</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.7__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.7__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Dapperbuurt</IntIoRef>. [Beëindiging] Na 2021-04-04 is deze gebiedsaanwijzing beëindigd. [Intrekken en Vervangen] Na 2021-07-07 is deze gebiedsaanwijzing weer herleefd. </Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+                  <Hoofdstuk eId="chp_4" wId="gm0363_1__chp_4">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>4</Nummer>
+                        <Opschrift>OmgevingsnormsTijdreizen</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_4__art_4.1" wId="gm0363_1__chp_4__art_4.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>4.1</Nummer>
+                           <Opschrift>OmgevingsnormOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een Bouwhoogte.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_4__art_4.2" wId="gm0363_1__chp_4__art_4.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>4.2</Nummer>
+                           <Opschrift>OmgevingsnormNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een Goothoogte. [NaamWijziging] Na 2021-04-04 heet de Omgevingsnorm Maximum Goothoogte. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_4__art_4.3" wId="gm0363_1__chp_4__art_4.3">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>4.3</Nummer>
+                           <Opschrift>OmgevingsnormLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een geluidsnorm. [LocatieWijziging] Na 2021-04-04 verplaatsen we de geluidsnorm in de Haarlemmerbuurt ook lekker naar Haarlem. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_4__art_4.4" wId="gm0363_1__chp_4__art_4.4">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>4.4</Nummer>
+                           <Opschrift>OmgevingsnormBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Het welstandsniveau is zoals bepaald in het informatieobject. [Beëindigen] Na 2021-04-04 is deze Omgevingsnorm verwijderd en zijn er geen regels meer voor de Welstand. </Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_4__art_4.5" wId="gm0363_1__chp_4__art_4.5">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>4.5</Nummer>
+                           <Opschrift>OmgevingsnormWijzigingIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een normale norm. [Intrekken en Vervangen] Na 2021-07-07 is deze norm aangepast, dan is het niet normaal meer. </Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+                  <Hoofdstuk eId="chp_5" wId="gm0363_1__chp_5">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>5</Nummer>
+                        <Opschrift>LocatieTijdreizen</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_5__art_5.1" wId="gm0363_1__chp_5__art_5.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.1</Nummer>
+                           <Opschrift>GebiedengroepOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: GebiedengroepOngewijzigd. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.2" wId="gm0363_1__chp_5__art_5.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.2</Nummer>
+                           <Opschrift>GebiedengroepNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: GebiedengroepNaamWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.3" wId="gm0363_1__chp_5__art_5.3">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.3</Nummer>
+                           <Opschrift>GebiedengroepLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: GebiedengroepLocatieWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.4" wId="gm0363_1__chp_5__art_5.4">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.4</Nummer>
+                           <Opschrift>GebiedengroepBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: GebiedengroepBeëindiging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.5" wId="gm0363_1__chp_5__art_5.5">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.5</Nummer>
+                           <Opschrift>GebiedengroepIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: GebiedengroepIntrekkenVervangen. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.6" wId="gm0363_1__chp_5__art_5.6">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.6</Nummer>
+                           <Opschrift>GebiedOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: GebiedOngewijzigd. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.7" wId="gm0363_1__chp_5__art_5.7">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.7</Nummer>
+                           <Opschrift>GebiedNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: GebiedNaamWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.8" wId="gm0363_1__chp_5__art_5.8">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.8</Nummer>
+                           <Opschrift>GebiedLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: GebiedLocatieWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.9" wId="gm0363_1__chp_5__art_5.9">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.9</Nummer>
+                           <Opschrift>GebiedBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: GebiedBeëindiging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.10" wId="gm0363_1__chp_5__art_5.10">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.10</Nummer>
+                           <Opschrift>GebiedIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: GebiedIntrekkenVervangen. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.11" wId="gm0363_1__chp_5__art_5.11">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.11</Nummer>
+                           <Opschrift>LijnengroepOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: LijnengroepOngewijzigd. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.12" wId="gm0363_1__chp_5__art_5.12">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.12</Nummer>
+                           <Opschrift>LijnengroepNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: LijnengroepNaamWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.13" wId="gm0363_1__chp_5__art_5.13">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.13</Nummer>
+                           <Opschrift>LijnengroepLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: LijnengroepLocatieWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.14" wId="gm0363_1__chp_5__art_5.14">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.14</Nummer>
+                           <Opschrift>LijnengroepBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: LijnengroepBeëindiging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.15" wId="gm0363_1__chp_5__art_5.15">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.15</Nummer>
+                           <Opschrift>LijnengroepIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: LijnengroepIntrekkenVervangen. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.16" wId="gm0363_1__chp_5__art_5.16">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.16</Nummer>
+                           <Opschrift>LijnOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: LijnOngewijzigd. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.17" wId="gm0363_1__chp_5__art_5.17">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.17</Nummer>
+                           <Opschrift>LijnNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: LijnNaamWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.18" wId="gm0363_1__chp_5__art_5.18">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.18</Nummer>
+                           <Opschrift>LijnLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: LijnLocatieWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.19" wId="gm0363_1__chp_5__art_5.19">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.19</Nummer>
+                           <Opschrift>LijnBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: LijnBeëindiging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.20" wId="gm0363_1__chp_5__art_5.20">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.20</Nummer>
+                           <Opschrift>LijnIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: LijnIntrekkenVervangen. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.21" wId="gm0363_1__chp_5__art_5.21">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.21</Nummer>
+                           <Opschrift>PuntengroepOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: PuntengroepOngewijzigd. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.22" wId="gm0363_1__chp_5__art_5.22">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.22</Nummer>
+                           <Opschrift>PuntengroepNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: PuntengroepNaamWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.23" wId="gm0363_1__chp_5__art_5.23">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.23</Nummer>
+                           <Opschrift>PuntengroepLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: PuntengroepLocatieWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.24" wId="gm0363_1__chp_5__art_5.24">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.24</Nummer>
+                           <Opschrift>PuntengroepBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: PuntengroepBeëindiging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.25" wId="gm0363_1__chp_5__art_5.25">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.25</Nummer>
+                           <Opschrift>PuntengroepIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: PuntengroepIntrekkenVervangen. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.26" wId="gm0363_1__chp_5__art_5.26">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.26</Nummer>
+                           <Opschrift>PuntOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: PuntOngewijzigd. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.27" wId="gm0363_1__chp_5__art_5.27">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.27</Nummer>
+                           <Opschrift>PuntNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: PuntNaamWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.28" wId="gm0363_1__chp_5__art_5.28">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.28</Nummer>
+                           <Opschrift>PuntLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: PuntLocatieWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.29" wId="gm0363_1__chp_5__art_5.29">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.29</Nummer>
+                           <Opschrift>PuntBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: PuntBeëindiging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_5__art_5.30" wId="gm0363_1__chp_5__art_5.30">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>5.30</Nummer>
+                           <Opschrift>PuntIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: PuntIntrekkenVervangen. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+                  <Hoofdstuk eId="chp_6" wId="gm0363_1__chp_6">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>6</Nummer>
+                        <Opschrift>Instructieregelwijzigingen</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_6__art_6.1" wId="gm0363_1__chp_6__art_6.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>6.1</Nummer>
+                           <Opschrift>InstructieregelOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: InstructieregelOngewijzigd. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_6__art_6.2" wId="gm0363_1__chp_6__art_6.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>6.2</Nummer>
+                           <Opschrift>InstructieregelNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: InstructieregelNaamWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_6__art_6.3" wId="gm0363_1__chp_6__art_6.3">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>6.3</Nummer>
+                           <Opschrift>InstructieregelLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: InstructieregelLocatieWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_6__art_6.4" wId="gm0363_1__chp_6__art_6.4">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>6.4</Nummer>
+                           <Opschrift>InstructieregelBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: InstructieregelBeëindiging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_6__art_6.5" wId="gm0363_1__chp_6__art_6.5">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>6.5</Nummer>
+                           <Opschrift>InstructieregelIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: InstructieregelIntrekkenVervangen. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+                  <Hoofdstuk eId="chp_7" wId="gm0363_1__chp_7">
+                     <Kop>
+                        <Label/>
+                        <Nummer>7</Nummer>
+                        <Opschrift>Instructieregelwijziging</Opschrift>
+                     </Kop>
+                     <!--Twee thema's in Artikel 7.1-->
+                     <Artikel eId="chp_7__art_7.1" wId="gm0363_1__chp_7__art_7.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.1</Nummer>
+                           <Opschrift>RegelVoorIedereenThemawijziging1</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: RegelVoorIedereenThemawijziging. Deze bevat twee thema's (Gezondheid en Milieu).
+                              [Wijziging] Na 04-04-2021 krijgt deze één thema. (Gezondheid)</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_7__art_7.2" wId="gm0363_1__chp_7__art_7.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.2</Nummer>
+                           <Opschrift>RegelVoorIedereenThemawijziging2</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: RegelVoorIedereenThemawijziging. Deze bevat één thema. (Lucht)
+                              [Wijziging] Na 04-04-2021 krijgt deze twee thema's. (Lucht en Natuur)</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_7__art_7.3" wId="gm0363_1__chp_7__art_7.3">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.3</Nummer>
+                           <Opschrift>RegelVoorIedereenThemawijziging3</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: RegelVoorIedereenThemawijziging. Deze bevat geen thema's. 
+                              [Wijziging] Na 04-04-2021 krijgt deze een thema. (Externe veiligheid)</Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+                  <Hoofdstuk eId="chp_8" wId="gm0363_1__chp_8">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>8</Nummer>
+                        <Opschrift>Omgevingswaardewijzigingen</Opschrift>
+                     </Kop>
+                     <Artikel eId="chp_8__art_8.1" wId="gm0363_1__chp_8__art_8.1">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>8.1</Nummer>
+                           <Opschrift>OmgevingswaardeOngewijzigd</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: OmgevingswaardeOngewijzigd. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_8__art_8.2" wId="gm0363_1__chp_8__art_8.2">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>8.2</Nummer>
+                           <Opschrift>OmgevingswaardeNaamWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: OmgevingswaardeNaamWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_8__art_8.3" wId="gm0363_1__chp_8__art_8.3">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>8.3</Nummer>
+                           <Opschrift>OmgevingswaardeLocatieWijziging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: OmgevingswaardeLocatieWijziging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_8__art_8.4" wId="gm0363_1__chp_8__art_8.4">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>8.4</Nummer>
+                           <Opschrift>OmgevingswaardeBeëindiging</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: OmgevingswaardeBeëindiging. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_8__art_8.5" wId="gm0363_1__chp_8__art_8.5">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>8.5</Nummer>
+                           <Opschrift>OmgevingswaardeIntrekkenVervangen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Dit is een artikel met de functionaliteit: OmgevingswaardeIntrekkenVervangen. Indien er een wijziging is, is deze zichtbaar na 4 april 2021.</Al>
+                        </Inhoud>
+                     </Artikel>
+                  </Hoofdstuk>
+               </Lichaam>
+
+                  <Bijlage eId="cmp_I" wId="gm0363_1__cmp_I">
+                     <Kop>
+                        <Label>Bijlage</Label>
+                        <Nummer>I</Nummer>
+                        <Opschrift>Overzicht Informatieobjecten</Opschrift>
+                     </Kop>
+                     <Divisietekst eId="cmp_I__content_o_1" wId="gm0363_1__cmp_I__content_o_1">
+                        <Inhoud>
+                           <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1">
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_1"><Term>Burgwallen-Nieuwe Zijde</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0363/2022/Burgwallen-Nieuwe_Zijde/nld@2022;1">/join/id/regdata/gm0363/2022/Burgwallen-Nieuwe_Zijde/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2"><Term>Burgwallen-Oude Zijde</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0363/2022/Burgwallen-Oude_Zijde/nld@2022;1">/join/id/regdata/gm0363/2022/Burgwallen-Oude_Zijde/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_3"><Term>Da Costabuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm0363/2022/Da_Costabuurt/nld@2022;1">/join/id/regdata/gm0363/2022/Da_Costabuurt/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4"><Term>Dapperbuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0363/2022/Dapperbuurt/nld@2022;1">/join/id/regdata/gm0363/2022/Dapperbuurt/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_5"><Term>De Weteringschans</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm0363/2022/De_Weteringschans/nld@2022;1">/join/id/regdata/gm0363/2022/De_Weteringschans/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_6"><Term>Frederik Hendrikbuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm0363/2022/Frederik_Hendrikbuurt/nld@2022;1">/join/id/regdata/gm0363/2022/Frederik_Hendrikbuurt/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_7"><Term>Grachtengordel-West</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0363/2022/Grachtengordel-West/nld@2022;1">/join/id/regdata/gm0363/2022/Grachtengordel-West/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_8"><Term>Grachtengordel-Zuid</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/gm0363/2022/Grachtengordel-Zuid/nld@2022;1">/join/id/regdata/gm0363/2022/Grachtengordel-Zuid/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <!--Gewijzigd--><Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_9"><Term>Haarlemmerbuurt, nu eigenlijk Haarlem</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" ref="/join/id/regdata/gm0363/2022/Haarlemmerbuurt/nld@2022;2">/join/id/regdata/gm0363/2022/Haarlemmerbuurt/nld@2022;2</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_10" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_10"><Term>Helmersbuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1" ref="/join/id/regdata/gm0363/2022/Helmersbuurt/nld@2022;1">/join/id/regdata/gm0363/2022/Helmersbuurt/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_11" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_11"><Term>IJplein_Vogelbuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1" ref="/join/id/regdata/gm0363/2022/IJplein_Vogelbuurt/nld@2022;1">/join/id/regdata/gm0363/2022/IJplein_Vogelbuurt/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_12" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_12"><Term>Indische Buurt Oost</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" ref="/join/id/regdata/gm0363/2022/Indische_Buurt_Oost/nld@2022;1">/join/id/regdata/gm0363/2022/Indische_Buurt_Oost/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_13"><Term>Indische Buurt West</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/gm0363/2022/Indische_Buurt_West/nld@2022;1">/join/id/regdata/gm0363/2022/Indische_Buurt_West/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_14" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_14"><Term>Jordaan</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1" ref="/join/id/regdata/gm0363/2022/Jordaan/nld@2022;1">/join/id/regdata/gm0363/2022/Jordaan/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_15" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_15"><Term>Middenmeer</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1" ref="/join/id/regdata/gm0363/2022/Middenmeer/nld@2022;1">/join/id/regdata/gm0363/2022/Middenmeer/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_16" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16"><Term>Museumkwartier</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1" ref="/join/id/regdata/gm0363/2022/Museumkwartier/nld@2022;1">/join/id/regdata/gm0363/2022/Museumkwartier/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_17" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_17"><Term>Nieuwmarkt_Lastage</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1" ref="/join/id/regdata/gm0363/2022/Nieuwmarkt_Lastage/nld@2022;1">/join/id/regdata/gm0363/2022/Nieuwmarkt_Lastage/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_18" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_18"><Term>Noordelijke IJ-oevers Oost</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1" ref="/join/id/regdata/gm0363/2022/Noordelijke_IJ-oevers_Oost/nld@2022;1">/join/id/regdata/gm0363/2022/Noordelijke_IJ-oevers_Oost/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_19" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_19"><Term>Noordelijke IJ-oevers West</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_19__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_19__ref_o_1" ref="/join/id/regdata/gm0363/2022/Noordelijke_IJ-oevers_West/nld@2022;1">/join/id/regdata/gm0363/2022/Noordelijke_IJ-oevers_West/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_20" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_20"><Term>Oostelijk Havengebied</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1" ref="/join/id/regdata/gm0363/2022/Oostelijk_Havengebied/nld@2022;1">/join/id/regdata/gm0363/2022/Oostelijk_Havengebied/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_21" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_21"><Term>Oostelijke Eilanden_Kadijken</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_21__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_21__ref_o_1" ref="/join/id/regdata/gm0363/2022/Oostelijke_Eilanden_Kadijken/nld@2022;1">/join/id/regdata/gm0363/2022/Oostelijke_Eilanden_Kadijken/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_22" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_22"><Term>Oosterparkbuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_22__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_22__ref_o_1" ref="/join/id/regdata/gm0363/2022/Oosterparkbuurt/nld@2022;1">/join/id/regdata/gm0363/2022/Oosterparkbuurt/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_23" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_23"><Term>Oude Pijp</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1" ref="/join/id/regdata/gm0363/2022/Oude_Pijp/nld@2022;1">/join/id/regdata/gm0363/2022/Oude_Pijp/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_24" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_24"><Term>Staatsliedenbuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_24__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_24__ref_o_1" ref="/join/id/regdata/gm0363/2022/Staatsliedenbuurt/nld@2022;1">/join/id/regdata/gm0363/2022/Staatsliedenbuurt/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_25" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_25"><Term>Transvaalbuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_25__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_25__ref_o_1" ref="/join/id/regdata/gm0363/2022/Transvaalbuurt/nld@2022;1">/join/id/regdata/gm0363/2022/Transvaalbuurt/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_26" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_26"><Term>Van Lennepbuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_26__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_26__ref_o_1" ref="/join/id/regdata/gm0363/2022/Van_Lennepbuurt/nld@2022;1">/join/id/regdata/gm0363/2022/Van_Lennepbuurt/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_27" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_27"><Term>Volewijck</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_27__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_27__ref_o_1" ref="/join/id/regdata/gm0363/2022/Volewijck/nld@2022;1">/join/id/regdata/gm0363/2022/Volewijck/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <!--Intrekken--><Begrip wijzigactie="verwijder" eId="cmp_I__content_o_1__list_o_1__item_o_28" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28"><Term>Vondelbuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1" ref="/join/id/regdata/gm0363/2022/Vondelbuurt/nld@2022;1">/join/id/regdata/gm0363/2022/Vondelbuurt/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_29" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_29"><Term>Weesperbuurt_Plantage</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_29__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_29__ref_o_1" ref="/join/id/regdata/gm0363/2022/Weesperbuurt_Plantage/nld@2022;1">/join/id/regdata/gm0363/2022/Weesperbuurt_Plantage/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_30" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_30"><Term>Weesperzijde</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_30__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_30__ref_o_1" ref="/join/id/regdata/gm0363/2022/Weesperzijde/nld@2022;1">/join/id/regdata/gm0363/2022/Weesperzijde/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <!--Gewijzigd--><Begrip eId="cmp_I__content_o_1__list_o_1__item_o_31" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_31"><Term>MultiLijn</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1" ref="/join/id/regdata/gm0363/2022/MultiLijn/nld@2022;2">/join/id/regdata/gm0363/2022/MultiLijn/nld@2022;2</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_32" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_32"><Term>Lijn1</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_32__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_32__ref_o_1" ref="/join/id/regdata/gm0363/2022/Lijn1/nld@2022;1">/join/id/regdata/gm0363/2022/Lijn1/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_33" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_33"><Term>TweeLijnen</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_33__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_33__ref_o_1" ref="/join/id/regdata/gm0363/2022/TweeLijnen/nld@2022;1">/join/id/regdata/gm0363/2022/TweeLijnen/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <!--Intrekken--><Begrip wijzigactie="verwijder" eId="cmp_I__content_o_1__list_o_1__item_o_34" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_34"><Term>Verdwlijn</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1" ref="/join/id/regdata/gm0363/2022/Verdwlijn/nld@2022;1">/join/id/regdata/gm0363/2022/Verdwlijn/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_35" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_35"><Term>LijnIntrVerv</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_35__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_35__ref_o_1" ref="/join/id/regdata/gm0363/2022/LijnIntrVerv/nld@2022;1">/join/id/regdata/gm0363/2022/LijnIntrVerv/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_36" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_36"><Term>PuntengroepOngewijzigd</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_36__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_36__ref_o_1" ref="/join/id/regdata/gm0363/2022/PuntengroepOngewijzigd/nld@2022;1">/join/id/regdata/gm0363/2022/PuntengroepOngewijzigd/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_37" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_37"><Term>PuntengroepNaamWijziging</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_37__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_37__ref_o_1" ref="/join/id/regdata/gm0363/2022/PuntengroepNaamWijziging/nld@2022;1">/join/id/regdata/gm0363/2022/PuntengroepNaamWijziging/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <!--Gewijzigd--><Begrip eId="cmp_I__content_o_1__list_o_1__item_o_38" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_38"><Term>PuntengroepLocatieWijziging</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_38__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_38__ref_o_1" ref="/join/id/regdata/gm0363/2022/PuntengroepLocatieWijziging/nld@2022;2">/join/id/regdata/gm0363/2022/PuntengroepLocatieWijziging/nld@2022;2</ExtIoRef></Al></Definitie></Begrip>
+                              <!--Intrekken--><Begrip wijzigactie="verwijder" eId="cmp_I__content_o_1__list_o_1__item_o_39" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_39"><Term>PuntengroepBeeindiging</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_39__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_39__ref_o_1" ref="/join/id/regdata/gm0363/2022/PuntengroepBeeindiging/nld@2022;1">/join/id/regdata/gm0363/2022/PuntengroepBeeindiging/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_40" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_40"><Term>PuntengroepIntrekkenVervangen</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_40__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_40__ref_o_1" ref="/join/id/regdata/gm0363/2022/PuntengroepIntrekkenVervangen/nld@2022;1">/join/id/regdata/gm0363/2022/PuntengroepIntrekkenVervangen/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                           </Begrippenlijst>
+                        </Inhoud>
+                     </Divisietekst>
+                  </Bijlage>
+
+                     
+                  </RegelingCompact>
+               </VervangRegeling>
+            </RegelingMutatie>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm0363/2022/RegelingAmsterdam</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm0363/2022/RegelingAmsterdam/nld@2</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0363</maker>
+         <!--soortBestuursorgaan is 'gemeenteraad'.-->
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>omgevingsplan RANDSTAD!!! (omgevingsplan Amsterdam)</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <officieleTitel>Omgevingsplan Amsterdam</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
+         <!-- Omgevingsplan -->
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>

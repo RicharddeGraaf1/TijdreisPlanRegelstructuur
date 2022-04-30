@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:rkow="http://www.geostandaarden.nl/imow/regeltekstkoppelingow/"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>TijdreizenInAmsterdam</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Amsterdam</sl:gebied>
+         <sl:leveringsId>Kadaster-Tijdreizen-initieel_001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Omgevingsnorm</sl:objectType>
+            <sl:objectType>Omgevingswaarde</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <!--      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingsnorm>
+               <rol:identificatie>nl.imow-gm0363.omgevingsnorm.Bouwhoogte</rol:identificatie>
+               <rol:naam>Bouwhoogte</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</rol:type>
+               <rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Meter</rol:eenheid>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.10meter</rol:identificatie>
+                     <rol:kwantitatieveWaarde>10</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.BurgwallenNieuweZijde"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.5meter</rol:identificatie>
+                     <rol:kwantitatieveWaarde>5</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.BurgwallenOudeZijde"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.4meter</rol:identificatie>
+                     <rol:kwantitatieveWaarde>4</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.DaCostabuurt"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.7meter</rol:identificatie>
+                     <rol:kwantitatieveWaarde>7</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.Dapperbuurt"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Bouwaanduiding</rol:groep>
+            </rol:Omgevingsnorm>
+         </ow-dc:owObject>
+      </sl:stand>-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingsnorm>
+               <rol:identificatie>nl.imow-gm0363.omgevingsnorm.Goothoogte</rol:identificatie>
+               <rol:naam>Maximum Goothoogte</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumGoothoogte</rol:type>
+               <rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Meter</rol:eenheid>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.6meter</rol:identificatie>
+                     <rol:kwantitatieveWaarde>6</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.DeWeteringschans"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.5meter</rol:identificatie>
+                     <rol:kwantitatieveWaarde>5</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.FrederikHendrikbuurt"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.11meter</rol:identificatie>
+                     <rol:kwantitatieveWaarde>11</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.GrachtengordelWest"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.12meter</rol:identificatie>
+                     <rol:kwantitatieveWaarde>12</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.GrachtengordelZuid"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Bouwaanduiding</rol:groep>
+            </rol:Omgevingsnorm>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingsnorm>
+               <rol:identificatie>nl.imow-gm0363.omgevingsnorm.Geluidsnorm</rol:identificatie>
+               <rol:naam>Geluidsnorm</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumVolume</rol:type>
+               <rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Decibel</rol:eenheid>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.10decibel</rol:identificatie>
+                     <rol:kwantitatieveWaarde>10</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.Haarlemmerbuurt"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.40decibel</rol:identificatie>
+                     <rol:kwantitatieveWaarde>40</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.Helmersbuurt"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.50decibel</rol:identificatie>
+                     <rol:kwantitatieveWaarde>50</rol:kwantitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.DaCostabuurt"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Geluid</rol:groep>
+            </rol:Omgevingsnorm>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingsnorm>
+               <ow:status>beëindigen</ow:status>
+               <rol:identificatie>nl.imow-gm0363.omgevingsnorm.Welstandsniveau</rol:identificatie>
+               <rol:naam>Welstandsniveau</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Welstandsniveau</rol:type>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.hoog</rol:identificatie>
+                     <rol:kwalitatieveWaarde>hoog</rol:kwalitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.OostelijkeEilandenKadijken"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.medium</rol:identificatie>
+                     <rol:kwalitatieveWaarde>medium</rol:kwalitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.Transvaalbuurt"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.bizarhoog</rol:identificatie>
+                     <rol:kwalitatieveWaarde>bizarhoog</rol:kwalitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.Vondelbuurt"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Bouwaanduiding</rol:groep>
+            </rol:Omgevingsnorm>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingsnorm>
+               <rol:identificatie>nl.imow-gm0363.omgevingsnorm.IntrekkenVervangen</rol:identificatie>
+               <rol:naam>NormIntrekkenVervangen</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Kap</rol:type>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.inspiratiekwijtNr1</rol:identificatie>
+                     <rol:kwalitatieveWaarde>inspiratiekwijtNr1</rol:kwalitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.Museumkwartier"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.inspiratiekwijtNr2</rol:identificatie>
+                     <rol:kwalitatieveWaarde>inspiratiekwijtNr2</rol:kwalitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.OostelijkHavengebied"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Overig</rol:groep>
+            </rol:Omgevingsnorm>
+         </ow-dc:owObject>
+      </sl:stand>-->
+      <!--      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingswaarde>
+               <rol:identificatie>nl.imow-gm0363.omgevingswaarde.Overstromingskans1op100</rol:identificatie>
+               <rol:naam>Overstromingskans1op100</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</rol:type>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.1op100</rol:identificatie>
+                     <rol:kwalitatieveWaarde>1op100</rol:kwalitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.IndischeBuurtOost"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingswaarde/id/concept/VeiligheidWaterkering</rol:groep>
+            </rol:Omgevingswaarde>
+         </ow-dc:owObject>
+      </sl:stand>-->
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingswaarde>
+               <rol:identificatie>nl.imow-gm0363.omgevingswaarde.Overstromingskans1op200</rol:identificatie>
+               <rol:naam>Overstromingskans1op200 GewijzigdeNaam</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</rol:type>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.1op200</rol:identificatie>
+                     <rol:kwalitatieveWaarde>1op200</rol:kwalitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.IndischeBuurtWest"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingswaarde/id/concept/VeiligheidWaterkering</rol:groep>
+            </rol:Omgevingswaarde>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingswaarde>
+               <rol:identificatie>nl.imow-gm0363.omgevingswaarde.Overstromingskans1op300</rol:identificatie>
+               <rol:naam>Overstromingskans1op300</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</rol:type>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.1op300</rol:identificatie>
+                     <rol:kwalitatieveWaarde>1op300</rol:kwalitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.Jordaan"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.IndischeBuurtWest"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.IndischeBuurtOost"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingswaarde/id/concept/VeiligheidWaterkering</rol:groep>
+            </rol:Omgevingswaarde>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingswaarde>
+               <ow:status>beëindigen</ow:status>
+               <rol:identificatie>nl.imow-gm0363.omgevingswaarde.Overstromingskans1op400</rol:identificatie>
+               <rol:naam>Overstromingskans1op400</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</rol:type>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.1op400</rol:identificatie>
+                     <rol:kwalitatieveWaarde>1op400</rol:kwalitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.FrederikHendrikbuurt"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingswaarde/id/concept/VeiligheidWaterkering</rol:groep>
+            </rol:Omgevingswaarde>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--      <sl:stand>
+         <ow-dc:owObject>
+            <rol:Omgevingswaarde>
+               <rol:identificatie>nl.imow-gm0363.omgevingswaarde.Overstromingskans1op500</rol:identificatie>
+               <rol:naam>Overstromingskans1op500</rol:naam>
+               <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</rol:type>
+               <rol:normwaarde>
+                  <rol:Normwaarde>
+                     <rol:identificatie>nl.imow-gm0363.normwaarde.1op500</rol:identificatie>
+                     <rol:kwalitatieveWaarde>1op500</rol:kwalitatieveWaarde>
+                     <rol:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.VanLennepbuurt"/>
+                     </rol:locatieaanduiding>
+                  </rol:Normwaarde>
+               </rol:normwaarde>
+               <rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingswaarde/id/concept/VeiligheidWaterkering</rol:groep>
+            </rol:Omgevingswaarde>
+         </ow-dc:owObject>
+      </sl:stand>-->
+   </sl:standBestand>
+</ow-dc:owBestand>
