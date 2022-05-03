@@ -606,7 +606,7 @@
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0363.activiteit.herleven"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm0363.activiteitlocatieaanduiding.wandelenDapperbuurt</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.Dapperbuurt"/>
                      </r:locatieaanduiding>
@@ -692,7 +692,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp3art35"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.DeWeteringschans"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.Museumkwartier"/>
                </r:locatieaanduiding>
                <r:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0363.gebiedsaanwijzing.IntrekkenVervangen"/>

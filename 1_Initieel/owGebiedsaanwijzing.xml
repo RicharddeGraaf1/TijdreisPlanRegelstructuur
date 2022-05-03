@@ -78,10 +78,10 @@
             <ga:Gebiedsaanwijzing>
                <ga:identificatie>nl.imow-gm0363.gebiedsaanwijzing.IntrekkenVervangen</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
-               <ga:naam>Grachtengordel Zuid (wordt gewijzigd bij intrekkenVervangen)</ga:naam>
+               <ga:naam>Museumkwartier (wordt gewijzigd bij intrekken en vervangen)</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.DeWeteringschans"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.Museumkwartier"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>

@@ -61,7 +61,6 @@
             <informatieobjectRef>/join/id/regdata/gm0363/2022/PuntengroepOngewijzigd/nld@2022;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0363/2022/PuntengroepNaamWijziging/nld@2022;1</informatieobjectRef>-->
             <informatieobjectRef>/join/id/regdata/gm0363/2022/PuntengroepLocatieWijziging/nld@2022;2</informatieobjectRef>
-            <!--Intrekking-->
             <!--<informatieobjectRef>/join/id/regdata/gm0363/2022/PuntengroepBeeindiging/nld@2022;1</informatieobjectRef>-->
             <!--<informatieobjectRef>/join/id/regdata/gm0363/2022/PuntengroepIntrekkenVervangen/nld@2022;1</informatieobjectRef>-->
          </informatieobjectRefs>
@@ -366,7 +365,7 @@
                               <Inhoud>
                                  <Al>Dit is een <IntIoRef eId="chp_3__art_3.5__ref_o_1"
                                               wId="gm0363_1__chp_3__art_3.5__ref_o_1"
-                                              ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1">Museumkwartier</IntIoRef>. [Intrekken en Vervangen] Na 2021-07-07 is deze activiteit aangepast, en dan is het toegestaan om te skiën. </Al>
+                                              ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1">Museumkwartier</IntIoRef>. [Intrekken en Vervangen] Na 2021-07-07 is deze Gebiedsaanwijzing aangepast. </Al>
                               </Inhoud>
                            </Artikel>
                            <Artikel eId="chp_3__art_3.6" wId="gm0363_1__chp_3__art_3.6">

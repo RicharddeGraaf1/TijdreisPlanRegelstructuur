@@ -861,7 +861,8 @@
             <l:Punt>
                <l:identificatie>nl.imow-gm0363.punt.PuntIntrekkenVervangen</l:identificatie>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="e6529fa5-3d99-4cca-92d3-aa2dabff60b1"/>
+                  <!--<l:GeometrieRef xlink:href="e6529fa5-3d99-4cca-92d3-aa2dabff60b1"/>-->
+                  <l:GeometrieRef xlink:href="920a0abc-865a-4617-b94c-05bf827a066c"/>
                </l:geometrie>
             </l:Punt>
          </ow-dc:owObject>

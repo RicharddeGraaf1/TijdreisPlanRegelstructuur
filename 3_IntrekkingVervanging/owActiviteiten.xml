@@ -20,13 +20,12 @@
             <sl:objectType>Activiteit</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
-<!--      Wonen blijft ongewijzigd
+      <!--      Wonen blijft ongewijzigd
       zwemmen wordt zwemmen zonder zwemvliezen
       Jordaan krijgt twee gebieden erbij (indische buurt oost en west)
       beëindiging
       skien wordt toegestaan-->
-      
-<!--      <sl:stand>
+      <!--      <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
                <rol:identificatie>nl.imow-gm0363.activiteit.ongewijzigd</rol:identificatie>
@@ -38,7 +37,7 @@
             </rol:Activiteit>
          </ow-dc:owObject>
       </sl:stand>-->
-      <sl:stand>
+      <!--      <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
                <rol:identificatie>nl.imow-gm0363.activiteit.naamwijziging</rol:identificatie>
@@ -49,8 +48,8 @@
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
-      </sl:stand>
-<!--      <sl:stand>
+      </sl:stand>-->
+      <!--      <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
                <rol:identificatie>nl.imow-gm0363.activiteit.locatiewijziging</rol:identificatie>
@@ -62,7 +61,7 @@
             </rol:Activiteit>
          </ow-dc:owObject>
       </sl:stand>-->
-      <sl:stand>
+      <!--      <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
                <ow:status>beëindigen</ow:status>
@@ -74,10 +73,11 @@
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
-      </sl:stand>
-<!--      <sl:stand>
+      </sl:stand>-->
+      <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0363.activiteit.beeindigingNavIntrVerv</rol:identificatie>
                <rol:naam>mountainbiken</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteit</rol:groep>
@@ -86,11 +86,10 @@
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0363.activiteit.herleven</rol:identificatie>
                <rol:naam>wandelen</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteit</rol:groep>
@@ -100,7 +99,7 @@
             </rol:Activiteit>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
+      <!--      <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
                <rol:identificatie>nl.imow-gm0363.activiteit.intrekkenvervangen</rol:identificatie>
@@ -112,7 +111,7 @@
             </rol:Activiteit>
          </ow-dc:owObject>
       </sl:stand>-->
-<!--      <sl:stand>
+      <!--      <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
                <rol:identificatie>nl.imow-gm0363.activiteit.ActInOmgevingsplanGem2</rol:identificatie>
@@ -123,6 +122,6 @@
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
-      </sl:stand>-->      
+      </sl:stand>-->
    </sl:standBestand>
 </ow-dc:owBestand>
