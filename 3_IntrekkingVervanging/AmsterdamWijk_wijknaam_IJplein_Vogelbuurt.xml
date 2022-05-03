@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/gm0363/2022/IJplein_Vogelbuurt_2</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/IJplein_Vogelbuurt_2/nld@2022;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>AmsterdamWijk_wijknaam_IJplein_Vogelbuurt.gml</bestandsnaam>
+                  <hash>239e5de3ea9b1ea7760e9beedbc797dd12ae170e0125ef4658da291fa5a28c148b96c1c833849abce7497abed424f6a8d7abfdec5c3d90c345d7fcd255ca5b18</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0363</maker>
+         <alternatieveTitels>
+            <alternatieveTitel/>
+         </alternatieveTitels>
+         <officieleTitel>/join/id/regdata/gm0363/2022/IJplein_Vogelbuurt_2</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <naamInformatieObject>IJplein_Vogelbuurt</naamInformatieObject>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>
