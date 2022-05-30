@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.overheid.nl/2017/lvbb">
+   <bestand><bestandsnaam>AmsterdamWijk_wijknaam_Haarlemmerbuurt.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
+   <bestand><bestandsnaam>AmsterdamWijk_wijknaam_Haarlemmerbuurt.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>Amsterdam_besluit2.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>manifest-ow.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>manifest.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>MultiLijn.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
+   <bestand><bestandsnaam>MultiLijn.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>opdracht.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>owActiviteiten.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>owGebiedsaanwijzing.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>owLocaties.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>owOmgevingsnormOmgevingswaarde.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>owRegeltekst.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>PuntengroepLocatieWijziging.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
+   <bestand><bestandsnaam>PuntengroepLocatieWijziging.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   
+</manifest>
