@@ -6,7 +6,8 @@ De regelingID's zijn:
 2. /akn/nl/act/gm0363/2022/RegelingAmsterdamNieuw
 
 De juridisch-werkend-vanaf-datums van de regelingversies zijn: 
-1. 2021-01-01 /akn/nl/act/gm0363/2022/RegelingAmsterdam/nld@1
+1. 2022-02-02 /akn/nl/act/gm0363/2022/RegelingAmsterdam/nld@1
+1a. nvt       /akn/nl/act/gm0363/2022/RegelingAmsterdam/nld@2;ontwerp
 2. 2022-03-03 /akn/nl/act/gm0363/2022/RegelingAmsterdam/nld@2
 3. 2022-04-04 /akn/nl/act/gm0363/2022/RegelingAmsterdamNieuw/nld@1 
 
