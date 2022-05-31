@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Oosterparkbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Oosterparkbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Oosterparkbuurt.gml</bestandsnaam>
-                  <hash>69cd1a76fb7cf0f972b5f75988dca44a2981b87d13efd83cd7a8b1e3dce19d259638d0ba266e18ad669ef366d0aeee93cf3648012126875b2c53dbd618d00ae1</hash>
+                  <hash>6475cc3f6af9a8d7f5149339c905f1780e9e3a7d82a42ff42d7ee79fc3e9c70db8862710e198ee9734659ed374ffd37156e82cac44f40bf414a6a4672cabe51a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Oosterparkbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Oosterparkbuurt</naamInformatieObject>

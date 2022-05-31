@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/gm0363/2022/Transvaalbuurt</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/Transvaalbuurt/nld@2022;1</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/gm0363/2022/1_Transvaalbuurt</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/1_Transvaalbuurt/nld@2022;1</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>Transvaalbuurt</geo:naam>

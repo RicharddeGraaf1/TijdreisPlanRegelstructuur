@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Transvaalbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Transvaalbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Transvaalbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Transvaalbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Transvaalbuurt.gml</bestandsnaam>
-                  <hash>784bf33c7e4d9655383e72945d79a589384ae6bb0bbb45d594a609700a92b5823cbc9d39cbf8421b01de955a21f94e480fc58e023d6b0f47ee8a8ff96beabc52</hash>
+                  <hash>fd3a80781422edf5c563cdbdca2d119e14a84233890e4dcd9feca87c83c276ef02e9d377cf0e51ae4dc8b3688911f4f65dc359935d7244641daaeedda07af040</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Transvaalbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Transvaalbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Transvaalbuurt</naamInformatieObject>

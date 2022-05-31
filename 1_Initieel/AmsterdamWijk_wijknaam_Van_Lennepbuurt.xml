@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Van_Lennepbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Van_Lennepbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Van_Lennepbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Van_Lennepbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Van_Lennepbuurt.gml</bestandsnaam>
-                  <hash>e8fc69db6275158c6065f908e19c61fc051b71be642d4fca5125e896426b7f45a1cbe70e66faa423d08097faf28055123212ea451166c2e659cc32fef5ecfca9</hash>
+                  <hash>9238b33fa98bebbcf72b7be8302a59a37029d4271f2f5ae1fb7f5eecbba8863301dd4f06e67916ff7093b85541d0b0c772bcb25bab9bb8d8f73359958c1b2cac</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Van_Lennepbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Van_Lennepbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Van Lennepbuurt</naamInformatieObject>

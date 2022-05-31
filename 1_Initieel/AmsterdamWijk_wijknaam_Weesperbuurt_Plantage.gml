@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/gm0363/2022/Weesperbuurt_Plantage</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/Weesperbuurt_Plantage/nld@2022;1</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage/nld@2022;1</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>Weesperbuurt_Plantage</geo:naam>

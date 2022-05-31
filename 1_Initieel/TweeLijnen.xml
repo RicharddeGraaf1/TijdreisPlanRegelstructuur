@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/TweeLijnen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/TweeLijnen/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_TweeLijnen</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_TweeLijnen/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>TweeLijnen.gml</bestandsnaam>
-                  <hash>765acc21de3e9c6cd881c90f6beae99ac3f9356f8e1f7f27470f1c27d1c3ed8fa9a84fa122b52deb50c4cc01c30b6bcc10d5b38b70c68ef00c2c454631f07add</hash>
+                  <hash>3ea3ea711c84cad7c347d6518eafff51b3af58f00ea83e24ab6dc96f5db35e53ebc77a6924f384481d0b3853aa7fc56b8bf93d24f9d0fd6f94b1fb9fbe7b8ce5</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/TweeLijnen</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_TweeLijnen</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>TweeLijnen</naamInformatieObject>

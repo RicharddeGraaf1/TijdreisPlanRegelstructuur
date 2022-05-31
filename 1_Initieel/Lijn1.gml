@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/gm0363/2022/Lijn1</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/Lijn1/nld@2022;1</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/gm0363/2022/1_Lijn1</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/1_Lijn1/nld@2022;1</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>Lijn1</geo:naam>

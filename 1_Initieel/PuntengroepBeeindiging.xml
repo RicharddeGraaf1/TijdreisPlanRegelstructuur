@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/PuntengroepBeeindiging</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/PuntengroepBeeindiging/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_PuntengroepBeeindiging</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_PuntengroepBeeindiging/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>PuntengroepBeeindiging.gml</bestandsnaam>
-                  <hash>5919c9a921c7c47d850be421dc1ac534e35e851004d32cfb2008ed86bcc6d1cad063cb0279af4958ec8f495849a53d1fb881c217d59e123ba9707cc007f48b4f</hash>
+                  <hash>05e91961538b198defe663cdd016e10261178753c16f7a6ab545fa14960c64af26786f42bc40f434b2514bd7cb0b98458f83b33197bfe57fb0e0c4d09cbabaa1</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/PuntengroepBeeindiging</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_PuntengroepBeeindiging</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>PuntengroepBeëindiging</naamInformatieObject>

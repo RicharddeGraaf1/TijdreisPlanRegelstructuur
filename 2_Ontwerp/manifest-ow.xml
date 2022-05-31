@@ -4,8 +4,8 @@
                xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/generiek/manifest-ow.xsd">
    <domein>omgevingswet</domein>
    <Aanlevering>
-      <WorkIDRegeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</WorkIDRegeling>
-      <DoelID>/join/id/proces/gm0363/2022/Wijziging</DoelID>
+      <WorkIDRegeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</WorkIDRegeling>
+      <DoelID>/join/id/proces/gm0363/2022/OntwerpWijziging</DoelID>
       <Bestand>
          <naam>owActiviteiten.xml</naam>
          <objecttype>Activiteit</objecttype>

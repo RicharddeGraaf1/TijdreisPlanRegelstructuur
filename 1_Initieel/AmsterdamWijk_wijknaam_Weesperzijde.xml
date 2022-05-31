@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Weesperzijde</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Weesperzijde/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Weesperzijde</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Weesperzijde/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Weesperzijde.gml</bestandsnaam>
-                  <hash>2d688f8a2e5cc7d8dce639b7a5b980e3558cf70a89da435dd741a72fb6afe163ed2bdc22d1eef5318eede973448b98152c448eea92e9b00753d6ff893faeee5a</hash>
+                  <hash>1c8391d1abe4253428611f218521a2f515d309343072fbd4ceea59df453b1d89eb6e9fde6ebc27a5a740354aaae8444bb4ea2ede2a1a26fe7d81eea29f4e23ac</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Weesperzijde</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Weesperzijde</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Weesperzijde</naamInformatieObject>

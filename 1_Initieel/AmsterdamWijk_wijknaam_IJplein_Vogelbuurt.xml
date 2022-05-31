@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/IJplein_Vogelbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/IJplein_Vogelbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_IJplein_Vogelbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_IJplein_Vogelbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_IJplein_Vogelbuurt.gml</bestandsnaam>
-                  <hash>e7103b627e3e68671d378918608d01b72bb8accf97692263b83f86d776df04b10b34152605c3fc86ff7acace9dec6028a8b0bbdd12ceca78f5010c3446740887</hash>
+                  <hash>18939579c6030fc110d88b64f3df9d91484e7f2df15a2c55bafa49289134dae152144719e3feb8b57331830afaf194b51b999c42ea2261a29f04cef6657a78b2</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/IJplein_Vogelbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_IJplein_Vogelbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>IJplein_Vogelbuurt</naamInformatieObject>

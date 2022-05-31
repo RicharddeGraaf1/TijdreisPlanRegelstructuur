@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/gm0363/2022/Oostelijke_Eilanden_Kadijken_2</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/Oostelijke_Eilanden_Kadijken_2/nld@2022;1</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken_2</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken_2/nld@2022;1</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>Oostelijke Eilanden_Kadijken</geo:naam>

@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Verdwlijn</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Verdwlijn/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Verdwlijn</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Verdwlijn/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Verdwlijn.gml</bestandsnaam>
-                  <hash>0397e140a0c693c73ec501c6f32c3d00738232b7400b9d50115709e895d93241c7a9c198199b1a91fb727d70c97b9aeea0f9d3947e4d9f951c24adf2b3d9a1e4</hash>
+                  <hash>f5a5d007f3a31b839ae96a87d731fbca5f1129feba065c8ae3eb0e4b43d044b1ba59d72dd187bbb66cda43085287c0a124c188637fc2091fa3efb54217e90af0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Verdwlijn</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Verdwlijn</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Verdwlijn</naamInformatieObject>

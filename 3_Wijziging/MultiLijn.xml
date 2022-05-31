@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/MultiLijn</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/MultiLijn/nld@2022;2</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_MultiLijn</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_MultiLijn/nld@2022;2</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>MultiLijn.gml</bestandsnaam>
-                  <hash>4c389bcad7371185fe74bcd6fdaf2f6bbfe2ec23bb8cba280eec90602d08c9342026e3d0780a2673adb5c73f432b9e43457f79e342f8e079c33de859a14f3058</hash>
+                  <hash>e12ccfe7ac0d45fe1bc2d038fa89a66e8d55a69a9f5137e5c5f376761b65aae88d87c0268862580c18967699444ac0cec35a3f5ff4a641b99d4b6215406b11ba</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/MultiLijn</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_MultiLijn</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Multilijn</naamInformatieObject>

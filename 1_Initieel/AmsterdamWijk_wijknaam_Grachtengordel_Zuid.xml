@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Grachtengordel-Zuid</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Grachtengordel-Zuid/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Grachtengordel-Zuid</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Grachtengordel-Zuid/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Grachtengordel_Zuid.gml</bestandsnaam>
-                  <hash>fa8670f6cdbfca4d0b248119bfdea5ce93417bf5bac093bf3bed2a4359fa764bc27c2c5a893ca69817a9b7f4cd6b843bb3e00125adae8b5907aeeb1f98345c21</hash>
+                  <hash>b781be9c3fe536bf7812c3e599e07b7483230ec54062e062f2c0a61b8ae5a554f70b73aa4a8dc23911f6924ff0c3b5021a524e631e66c90e1c2e22d69924f1bc</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Grachtengordel-Zuid</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Grachtengordel-Zuid</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Grachtengordel-Zuid</naamInformatieObject>

@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Oostelijk_Havengebied</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Oostelijk_Havengebied/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Oostelijk_Havengebied.gml</bestandsnaam>
-                  <hash>6cc1cf5a4b4058212a0779f88ca35accfc597d4d56fd65b85b8662c7d4f358514a14a03058856434ab6b57277619278a43f3501d44aeeb472ddad1fdfeb24ea2</hash>
+                  <hash>1fda4dde4f296ee3f36b08d1e6b19b70752a87fd16741358a63d0666b9946654903b3ac53aa26bb4605c3df28e285ce21400561310f99d4b111b973da8da675b</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Oostelijk_Havengebied</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Oostelijk Havengebied</naamInformatieObject>

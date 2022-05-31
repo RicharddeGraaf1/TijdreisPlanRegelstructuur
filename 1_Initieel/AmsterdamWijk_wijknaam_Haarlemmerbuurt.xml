@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Haarlemmerbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Haarlemmerbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Haarlemmerbuurt.gml</bestandsnaam>
-                  <hash>b29bf6b1195279bf0fc3d37b132fcaa9a34ad2595d717a12375b2edeec1fbc6820a993442fa9fd46957a7f757d3918cad85c7bce90b5947658eee45eab5ebef0</hash>
+                  <hash>170b355c3b392c0aefeaded84fd4321a50b7e22a6a0f36f453e93cc38e6bbf7163353a8b0917659fa9aaad2928879a773a6f386a99961b07771cbf5b3c504df7</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Haarlemmerbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Haarlemmerbuurt</naamInformatieObject>

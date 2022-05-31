@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Frederik_Hendrikbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Frederik_Hendrikbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Frederik_Hendrikbuurt.gml</bestandsnaam>
-                  <hash>f7296a9af967e6782b249b6b81fce264881501d8372064892dc64d5b941f3725f82461a54e9fe262e468e585271e765b0419468f2c720a27fd260b0f96130971</hash>
+                  <hash>2defa0b925cb1da7dab8147f8f040543e7afb7d102dd207d03dfd8eb2a48583667896eb32e06ccfcb3337fbca15de5e78c360d478674379394354f270aed2f59</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Frederik_Hendrikbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Frederik Hendrikbuurt</naamInformatieObject>

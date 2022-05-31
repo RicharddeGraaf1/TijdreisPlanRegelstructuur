@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Volewijck</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Volewijck/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Volewijck</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Volewijck/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Volewijck.gml</bestandsnaam>
-                  <hash>c83d85afa32a3223d356610a78209cf3ad897bfcfb4150fcb4d6905b31249269455d26138920e2e4ac59ea0f0f4c12868607a668788aefbf18537fc4134f21cb</hash>
+                  <hash>94e8a37f87d84146a10da46809859573a58fcac57d18eeb57408d338f393109b072348101d748bef6074f4195df7b0e8cd6bf2924fae9f7e05ac0b97b2eb3cf8</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Volewijck</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Volewijck</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Volewijck</naamInformatieObject>

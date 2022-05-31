@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Noordelijke_IJ-oevers_West</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Noordelijke_IJ-oevers_West/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Noordelijke_IJ_oevers_West.gml</bestandsnaam>
-                  <hash>fa1a408bc37df48ad79e22ce4fb93481f281347c32e0a03233bbe79497e4c212f59503e9360b1c73a18ddcee015408b7bb5dddfeb472aa52a38da536ed45eeb0</hash>
+                  <hash>1f4aa2edcf3f92982a8d76d066ba7ea3efd934ec4d1e1484f9f521d1892e11a60d7187bc124aa26c4b500e293e5b40dd50fb322f8d036fcad2a37a1a830b098a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Noordelijke_IJ-oevers_West</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Noordelijke IJ-oevers West</naamInformatieObject>

@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Dapperbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Dapperbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Dapperbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Dapperbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Dapperbuurt.gml</bestandsnaam>
-                  <hash>2d2a70b74af5e6d46f10f5e897859b112bf043c1d7ab8a07f0167562e1008788c9d17a46ca12efda1ff28e4b5d2bccfe9fc77c9b84566e74fa11606a09c1c10d</hash>
+                  <hash>a52ac0cbbf63f385280339e9542a9160353b751551245b3dd9b8d7132c60efe874d955284ae59d255fe886d83af0f6c5545984c085110f6fa9d23e9e8e963f7f</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Dapperbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Dapperbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Dapperbuurt</naamInformatieObject>

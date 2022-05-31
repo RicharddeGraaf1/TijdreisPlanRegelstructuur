@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Middenmeer</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Middenmeer/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Middenmeer</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Middenmeer/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Middenmeer.gml</bestandsnaam>
-                  <hash>53f96eadef6f57bebc000df7ffc60c2634cc97e0661e3a3f6eff28d7e124c6729262814f3bec518cff672be5573e421167f1065e5a6b53072e6be2c0e6015162</hash>
+                  <hash>4364e7ea21787c443e48c6ba84a6d47baa7d474ea377fed7ab8f6f5db192c6eace722f99f7e56acce6355ee9794ee74bfd80c845e15500186e9d819dbe03baca</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Middenmeer</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Middenmeer</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Middenmeer</naamInformatieObject>

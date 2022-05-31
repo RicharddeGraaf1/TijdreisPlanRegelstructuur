@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/Oude_Pijp</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/Oude_Pijp/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_Oude_Pijp</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Oude_Pijp/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Oude_Pijp.gml</bestandsnaam>
-                  <hash>6042b52f4bfbb51053f2d51ee8c09ab4d7fa148108f23803550748df36c734b92df90ca20f3167615856bdd05373f4d96cdfc1b2b0a67cfaa2ac09d007bc2eaf</hash>
+                  <hash>abc408419492d9ba39a28e87058b7654e856c242c9385830d384ee58be172ffdf13e2f330755b41fd7dc7eff50bc67b3463bc159d891400c61a4a789b1147985</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/Oude_Pijp</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_Oude_Pijp</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Oude Pijp</naamInformatieObject>

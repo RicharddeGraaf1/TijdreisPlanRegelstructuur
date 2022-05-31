@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/PuntengroepIntrekkenVervangen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/PuntengroepIntrekkenVervangen/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>PuntengroepIntrekkenVervangen.gml</bestandsnaam>
-                  <hash>ed4422a1803a4a1eccf9029cfd46494f85e5e2d53d40849052543b27c67e9246cb6cde177863ea799993388fefc6a6b1c25cb57e976a7efcb692341677486c44</hash>
+                  <hash>732d193b1b5c38048b1d2b41a23672ff1036d65794a88678ba4eca054d71bcafdf299dd1bcd120a019fa2b1a8bf0b7b196b018246c7029857ba80d567f172a9e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/PuntengroepIntrekkenVervangen</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>PuntengroepIntrekkenVervangen</naamInformatieObject>

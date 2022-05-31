@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/PuntengroepOngewijzigd</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/PuntengroepOngewijzigd/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_PuntengroepOngewijzigd</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_PuntengroepOngewijzigd/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>PuntengroepOngewijzigd.gml</bestandsnaam>
-                  <hash>589d3f032b1919a01e5623311c9c324ea86e7b6f9331c87a40c0ec166624e08aa565eec427d6ea432103c597936997284ee90574fd70062afb5db608dc7faaa5</hash>
+                  <hash>f15b8b4855b6d274721505c5af3060db4e32194399e42868455c66d05b81c412b2b9ae95d6eb1cfbc15504b1795acaa95883ed8ed577644b05deeb1ff31eac16</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/PuntengroepOngewijzigd</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_PuntengroepOngewijzigd</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>PuntengroepOngewijzigd

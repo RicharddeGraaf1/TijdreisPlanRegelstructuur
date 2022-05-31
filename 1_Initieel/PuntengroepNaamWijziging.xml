@@ -6,17 +6,17 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/PuntengroepNaamWijziging</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/PuntengroepNaamWijziging/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1_PuntengroepNaamWijziging</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1_PuntengroepNaamWijziging/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/RegelingAmsterdam</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>PuntengroepNaamWijziging.gml</bestandsnaam>
-                  <hash>7a340b7f3183554f15a51b2e8107988449374002f3f0512c33827f9e5058e1d6cf24058761531e9fdabebb035ec1e7e5d04cac19e6b48d0fab8f0c06b1f6d0b0</hash>
+                  <hash>17be98b8d9d31ed394c4d0ae18192385aed1bae3a632cdc93c5534f1aa2eea206caa82c59a134b32ce3a731171415a456d5b0da415adbadbd6cd7ed139e7bc7a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/PuntengroepNaamWijziging</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_PuntengroepNaamWijziging</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>PuntengroepNaamWijziging</naamInformatieObject>
