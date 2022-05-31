@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/gm0363/2022/AmsterdamDerdeBesluit</FRBRWork>
@@ -60,8 +63,7 @@
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <bekendOp>2021-06-17</bekendOp>
-         <procedurestappen>
-            <!-- Vaststelling -->
+         <procedurestappen><!-- Vaststelling -->
             <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_002</soortStap>
                <voltooidOp>2021-07-03</voltooidOp>
@@ -81,43 +83,258 @@
                <instrumentVersie>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuurNieuw/nld@1</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Burgwallen-Nieuwe_Zijde_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Burgwallen-Oude_Zijde_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Da_Costabuurt_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Dapperbuurt_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_De_Weteringschans_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Grachtengordel-West_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Grachtengordel-Zuid_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt_2/nld@2022;2</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Helmersbuurt_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_IJplein_Vogelbuurt_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Indische_Buurt_Oost_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Indische_Buurt_West_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Jordaan_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Middenmeer_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Museumkwartier_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Nieuwmarkt_Lastage_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_Oost_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_19__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_21__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_22__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Oude_Pijp_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Staatsliedenbuurt_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_24__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Transvaalbuurt_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_25__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Van_Lennepbuurt_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_26__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Weesperzijde_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_29__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_MultiLijn_2/nld@2022;2</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_30__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_Lijn1_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_TweeLijnen_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_32__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_LijnIntrVerv_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_33__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_PuntengroepOngewijzigd_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_PuntengroepNaamWijziging_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_35__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging_2/nld@2022;2</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_36__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen_2/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_37__ref_o_1</eId></BeoogdInformatieobject>
-            
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Burgwallen-Nieuwe_Zijde_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Burgwallen-Oude_Zijde_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Da_Costabuurt_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Dapperbuurt_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_De_Weteringschans_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Grachtengordel-West_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Grachtengordel-Zuid_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt_2/nld@2022;2</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Helmersbuurt_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_IJplein_Vogelbuurt_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Indische_Buurt_Oost_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Indische_Buurt_West_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Jordaan_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Middenmeer_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Museumkwartier_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Nieuwmarkt_Lastage_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_Oost_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_19__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_21__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_22__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Oude_Pijp_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Staatsliedenbuurt_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_24__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Transvaalbuurt_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_25__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Van_Lennepbuurt_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_26__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_27__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Weesperzijde_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_MultiLijn_2/nld@2022;2</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_29__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_Lijn1_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_30__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_TweeLijnen_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_LijnIntrVerv_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_32__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_PuntengroepOngewijzigd_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_33__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_PuntengroepNaamWijziging_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging_2/nld@2022;2</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_35__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangen</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_36__ref_o_1</eId>
+            </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Intrekkingen>
             <Intrekking>
@@ -144,7 +361,8 @@
          <Aanhef eId="formula_1" wId="formula_1">
             <Al>De raad van de gemeente Gemeenstestad </Al>
             <Al>gelezen het voorstel van burgemeester en wethouders van 26 juni 2019, nr. 2019-4542;</Al>
-            <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149" soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
+            <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149"
+                       soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
             <Al>besluit:</Al>
          </Aanhef>
          <Lichaam eId="body" wId="body">
@@ -186,7 +404,8 @@
                <Nummer>A</Nummer>
                <Opschrift>Bijlage bij artikel I</Opschrift>
             </Kop>
-            <RegelingCompact componentnaam="initieel_reg" wordt="/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuurNieuw/nld@1">
+            <RegelingCompact componentnaam="initieel_reg"
+                             wordt="/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuurNieuw/nld@1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Tijdreisplan (Amsterdam - regels)</Al>
                </RegelingOpschrift>
@@ -251,7 +470,9 @@
                            <Opschrift>ActiviteitOngewijzigd</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al> Het is toegestaan om te wonen in <IntIoRef eId="chp_2__art_2.1__ref_o_1" wId="gm0363_1__chp_2__art_2.1__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Burgwallen-Nieuwe Zijde</IntIoRef> [Deze activiteit wijzigt niet] </Al>
+                           <Al> Het is toegestaan om te wonen in <IntIoRef eId="chp_2__art_2.1__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.1__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Burgwallen-Nieuwe Zijde</IntIoRef> [Deze activiteit wijzigt niet] </Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_2__art_2.2" wId="gm0363_1__chp_2__art_2.2">
@@ -261,7 +482,9 @@
                            <Opschrift>ActiviteitNaamWijziging</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Het is verboden om te zwemmen in <IntIoRef eId="chp_2__art_2.2__ref_o_1" wId="gm0363_1__chp_2__art_2.2__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1">Middenmeer</IntIoRef> [NaamWijziging] Na 2022-03-03 is het verboden om te zwemmen zonder zwemvliezen. </Al>
+                           <Al>Het is verboden om te zwemmen in <IntIoRef eId="chp_2__art_2.2__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.2__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1">Middenmeer</IntIoRef> [NaamWijziging] Na 2022-03-03 is het verboden om te zwemmen zonder zwemvliezen. </Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_2__art_2.3" wId="gm0363_1__chp_2__art_2.3">
@@ -271,7 +494,9 @@
                            <Opschrift>ActiviteitLocatieWijziging</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Het is toegestaan om te vissen in de <IntIoRef eId="chp_2__art_2.3__ref_o_1" wId="gm0363_1__chp_2__art_2.3__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1">Jordaan</IntIoRef>. [LocatieWijziging] Na 2022-03-03 is het toegestaan om te vissen in de Jordaan, maar ook in de Indische buurt (oost en west). </Al>
+                           <Al>Het is toegestaan om te vissen in de <IntIoRef eId="chp_2__art_2.3__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.3__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1">Jordaan</IntIoRef>. [LocatieWijziging] Na 2022-03-03 is het toegestaan om te vissen in de Jordaan, maar ook in de Indische buurt (oost en west). </Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_2__art_2.4" wId="gm0363_1__chp_2__art_2.4">
@@ -281,7 +506,9 @@
                            <Opschrift>ActiviteitBeëindiging</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Het is toegestaan om te zingen in de <IntIoRef eId="chp_2__art_2.4__ref_o_1" wId="gm0363_1__chp_2__art_2.4__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1">Oude Pijp</IntIoRef>. [Beëindigen] Na 2022-03-03 is deze activiteit verwijderd en is er niets geregeld over het zingen in de pijp. </Al>
+                           <Al>Het is toegestaan om te zingen in de <IntIoRef eId="chp_2__art_2.4__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.4__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1">Oude Pijp</IntIoRef>. [Beëindigen] Na 2022-03-03 is deze activiteit verwijderd en is er niets geregeld over het zingen in de pijp. </Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_2__art_2.5" wId="gm0363_1__chp_2__art_2.5">
@@ -291,7 +518,9 @@
                            <Opschrift>ActiviteitWijzigingIntrekkenVervangen</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Het is toegestaan om te skiën in de <IntIoRef eId="chp_2__art_2.5__ref_o_1" wId="gm0363_1__chp_2__art_2.5__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">De Weteringschans</IntIoRef>. [Intrekken en Vervangen] Na 2022-04-04 is deze activiteit aangepast, en dan is het toegestaan om te skiën. Voorheen was het verboden.</Al>
+                           <Al>Het is toegestaan om te skiën in de <IntIoRef eId="chp_2__art_2.5__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.5__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">De Weteringschans</IntIoRef>. [Intrekken en Vervangen] Na 2022-04-04 is deze activiteit aangepast, en dan is het toegestaan om te skiën. Voorheen was het verboden.</Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_2__art_2.6" wId="gm0363_1__chp_2__art_2.6">
@@ -301,7 +530,9 @@
                            <Opschrift>ActiviteitBeeindigingNavIntrVerv</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Het is verboden om te mountainbiken in de <IntIoRef eId="chp_2__art_2.6__ref_o_1" wId="gm0363_1__chp_2__art_2.6__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Burgwallen-Oude Zijde</IntIoRef>. [Intrekken en Vervangen en Beëindiging] Na 2022-04-04 is deze activiteit beëindigd, en dan zijn er geen regels over mountainbiken. </Al>
+                           <Al>Het is verboden om te mountainbiken in de <IntIoRef eId="chp_2__art_2.6__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.6__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Burgwallen-Oude Zijde</IntIoRef>. [Intrekken en Vervangen en Beëindiging] Na 2022-04-04 is deze activiteit beëindigd, en dan zijn er geen regels over mountainbiken. </Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_2__art_2.7" wId="gm0363_1__chp_2__art_2.7">
@@ -311,7 +542,9 @@
                            <Opschrift>ActiviteitHerleven</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Het is verboden om te wandelen in de <IntIoRef eId="chp_2__art_2.7__ref_o_1" wId="gm0363_1__chp_2__art_2.7__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">De Dapperbuurt</IntIoRef>. [Beëindigen] Na 2022-03-03 is deze activiteit beëindigd. [Intrekken en Vervangen] Na 2022-04-04 is deze activiteit aangepast, en dan is het toegestaan om te wandelen. </Al>
+                           <Al>Het is verboden om te wandelen in de <IntIoRef eId="chp_2__art_2.7__ref_o_1"
+                                        wId="gm0363_1__chp_2__art_2.7__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">De Dapperbuurt</IntIoRef>. [Beëindigen] Na 2022-03-03 is deze activiteit beëindigd. [Intrekken en Vervangen] Na 2022-04-04 is deze activiteit aangepast, en dan is het toegestaan om te wandelen. </Al>
                         </Inhoud>
                      </Artikel>
                   </Hoofdstuk>
@@ -328,7 +561,9 @@
                            <Opschrift>GebiedsaanwijzingOngewijzigd</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.1__ref_o_1" wId="gm0363_1__chp_3__art_3.1__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1">Grachtengordel-West</IntIoRef>. [Deze gebiedsaanwijzing wijzigt niet] </Al>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.1__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.1__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1">Grachtengordel-West</IntIoRef>. [Deze gebiedsaanwijzing wijzigt niet] </Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_3__art_3.2" wId="gm0363_1__chp_3__art_3.2">
@@ -338,7 +573,9 @@
                            <Opschrift>GebiedsaanwijzingNaamWijziging</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.2__ref_o_1" wId="gm0363_1__chp_3__art_3.2__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Grachtengordel-Zuid</IntIoRef> [NaamWijziging] Na 2022-03-03 heet de Gebiedsaanwijzing Grachtengordel-maarDanDeZuidelijkeKant. </Al>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.2__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.2__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Grachtengordel-Zuid</IntIoRef> [NaamWijziging] Na 2022-03-03 heet de Gebiedsaanwijzing Grachtengordel-maarDanDeZuidelijkeKant. </Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_3__art_3.3" wId="gm0363_1__chp_3__art_3.3">
@@ -348,7 +585,9 @@
                            <Opschrift>GebiedsaanwijzingLocatieWijziging</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.3__ref_o_1" wId="gm0363_1__chp_3__art_3.3__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1">Haarlemmerbuurt</IntIoRef>. [LocatieWijziging] Na 2022-03-03 verplaatsen we de Haarlemmerbuurt gewoon lekker naar Haarlem. </Al>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.3__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.3__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1">Haarlemmerbuurt</IntIoRef>. [LocatieWijziging] Na 2022-03-03 verplaatsen we de Haarlemmerbuurt gewoon lekker naar Haarlem. </Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_3__art_3.4" wId="gm0363_1__chp_3__art_3.4">
@@ -358,7 +597,9 @@
                            <Opschrift>GebiedsaanwijzingBeëindiging</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Het is toegestaan om te zingen in de <IntIoRef eId="chp_3__art_3.4__ref_o_1" wId="gm0363_1__chp_3__art_3.4__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1">Vondelbuurt</IntIoRef>. [Beëindigen] Na 2022-03-03 is deze Gebiedsaanwijzing verwijderd en is het gebied niet getypeerd. </Al>
+                           <Al>Het is toegestaan om te zingen in de <IntIoRef eId="chp_3__art_3.4__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.4__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1">Vondelbuurt</IntIoRef>. [Beëindigen] Na 2022-03-03 is deze Gebiedsaanwijzing verwijderd en is het gebied niet getypeerd. </Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_3__art_3.5" wId="gm0363_1__chp_3__art_3.5">
@@ -368,7 +609,9 @@
                            <Opschrift>GebiedsaanwijzingWijzigingIntrekkenVervangen</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.5__ref_o_1" wId="gm0363_1__chp_3__art_3.5__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1">Museumkwartier</IntIoRef>. [Intrekken en Vervangen] Na 2022-04-04 is deze Gebiedsaanwijzing aangepast. </Al>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.5__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.5__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1">Museumkwartier</IntIoRef>. [Intrekken en Vervangen] Na 2022-04-04 is deze Gebiedsaanwijzing aangepast. </Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_3__art_3.6" wId="gm0363_1__chp_3__art_3.6">
@@ -378,7 +621,9 @@
                            <Opschrift>GebiedsaanwijzingBeeindigingNavIntrVerv</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.6__ref_o_1" wId="gm0363_1__chp_3__art_3.6__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Burgwallen-Oude Zijde</IntIoRef>. [Intrekken en Vervangen] Na 2022-04-04 is deze gebiedsaanwijzing beëindigd</Al>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.6__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.6__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Burgwallen-Oude Zijde</IntIoRef>. [Intrekken en Vervangen] Na 2022-04-04 is deze gebiedsaanwijzing beëindigd</Al>
                         </Inhoud>
                      </Artikel>
                      <Artikel eId="chp_3__art_3.7" wId="gm0363_1__chp_3__art_3.7">
@@ -388,7 +633,9 @@
                            <Opschrift>GebiedsaanwijzingHerleving</Opschrift>
                         </Kop>
                         <Inhoud>
-                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.7__ref_o_1" wId="gm0363_1__chp_3__art_3.7__ref_o_1" ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Dapperbuurt</IntIoRef>. [Beëindiging] Na 2022-03-03 is deze gebiedsaanwijzing beëindigd. [Intrekken en Vervangen] Na 2022-04-04 is deze gebiedsaanwijzing weer herleefd. </Al>
+                           <Al>Dit is een <IntIoRef eId="chp_3__art_3.7__ref_o_1"
+                                        wId="gm0363_1__chp_3__art_3.7__ref_o_1"
+                                        ref="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Dapperbuurt</IntIoRef>. [Beëindiging] Na 2022-03-03 is deze gebiedsaanwijzing beëindigd. [Intrekken en Vervangen] Na 2022-04-04 is deze gebiedsaanwijzing weer herleefd. </Al>
                         </Inhoud>
                      </Artikel>
                   </Hoofdstuk>
@@ -917,300 +1164,409 @@
                   </Kop>
                   <Divisietekst eId="cmp_I__content_o_1" wId="gm0363_1__cmp_I__content_o_1">
                      <Inhoud>
-                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1">
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_1">
+                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
+                                        wId="gm0363_1__cmp_I__content_o_1__list_o_1">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_1">
                               <Term>Burgwallen-Nieuwe Zijde</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Burgwallen-Nieuwe_Zijde_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Burgwallen-Nieuwe_Zijde_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Burgwallen-Nieuwe_Zijde_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Burgwallen-Nieuwe_Zijde_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2">
                               <Term>Burgwallen-Oude Zijde</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Burgwallen-Oude_Zijde_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Burgwallen-Oude_Zijde_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Burgwallen-Oude_Zijde_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Burgwallen-Oude_Zijde_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_3">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_3">
                               <Term>Da Costabuurt</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Da_Costabuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Da_Costabuurt_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Da_Costabuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Da_Costabuurt_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4">
                               <Term>Dapperbuurt</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Dapperbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Dapperbuurt_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Dapperbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Dapperbuurt_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_5">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_5">
                               <Term>De Weteringschans</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_De_Weteringschans_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_De_Weteringschans_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_De_Weteringschans_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_De_Weteringschans_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_6">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_6">
                               <Term>Frederik Hendrikbuurt</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_7">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_7">
                               <Term>Grachtengordel-West</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Grachtengordel-West_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Grachtengordel-West_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Grachtengordel-West_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Grachtengordel-West_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_8">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_8">
                               <Term>Grachtengordel-Zuid</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Grachtengordel-Zuid_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Grachtengordel-Zuid_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Grachtengordel-Zuid_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Grachtengordel-Zuid_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <!--Gewijzigd-->
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_9">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_9">
                               <Term>Haarlemmerbuurt, nu eigenlijk Haarlem</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt_2/nld@2022;2">/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt_2/nld@2022;2</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt_2/nld@2022;2">/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt_2/nld@2022;2</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_10" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_10">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_10"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_10">
                               <Term>Helmersbuurt</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Helmersbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Helmersbuurt_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Helmersbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Helmersbuurt_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_11" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_11">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_11"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_11">
                               <Term>IJplein_Vogelbuurt</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_IJplein_Vogelbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_IJplein_Vogelbuurt_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_IJplein_Vogelbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_IJplein_Vogelbuurt_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_12" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_12">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_12"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_12">
                               <Term>Indische Buurt Oost</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Indische_Buurt_Oost_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Indische_Buurt_Oost_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Indische_Buurt_Oost_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Indische_Buurt_Oost_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_13">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_13">
                               <Term>Indische Buurt West</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Indische_Buurt_West_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Indische_Buurt_West_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Indische_Buurt_West_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Indische_Buurt_West_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_14" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_14">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_14"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_14">
                               <Term>Jordaan</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Jordaan_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Jordaan_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Jordaan_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Jordaan_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_15" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_15">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_15"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_15">
                               <Term>Middenmeer</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Middenmeer_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Middenmeer_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Middenmeer_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Middenmeer_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_16" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_16"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16">
                               <Term>Museumkwartier</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Museumkwartier_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Museumkwartier_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Museumkwartier_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Museumkwartier_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_17" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_17">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_17"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_17">
                               <Term>Nieuwmarkt_Lastage</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Nieuwmarkt_Lastage_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Nieuwmarkt_Lastage_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Nieuwmarkt_Lastage_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Nieuwmarkt_Lastage_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_18" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_18">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_18"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_18">
                               <Term>Noordelijke IJ-oevers Oost</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_Oost_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_Oost_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_Oost_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_Oost_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_19" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_19">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_19"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_19">
                               <Term>Noordelijke IJ-oevers West</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_19__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_19__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_19__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_19__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_20" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_20">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_20"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_20">
                               <Term>Oostelijk Havengebied</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_21" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_21">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_21"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_21">
                               <Term>Oostelijke Eilanden_Kadijken</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_21__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_21__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_21__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_21__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_22" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_22">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_22"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_22">
                               <Term>Oosterparkbuurt</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_22__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_22__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Oosterparkbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Oosterparkbuurt_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_22__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_22__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Oosterparkbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Oosterparkbuurt_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_23" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_23">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_23"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_23">
                               <Term>Oude Pijp</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Oude_Pijp_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Oude_Pijp_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_23__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Oude_Pijp_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Oude_Pijp_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_24" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_24">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_24"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_24">
                               <Term>Staatsliedenbuurt</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_24__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_24__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Staatsliedenbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Staatsliedenbuurt_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_24__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_24__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Staatsliedenbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Staatsliedenbuurt_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_25" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_25">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_25"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_25">
                               <Term>Transvaalbuurt</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_25__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_25__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Transvaalbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Transvaalbuurt_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_25__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_25__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Transvaalbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Transvaalbuurt_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_26" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_26">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_26"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_26">
                               <Term>Van Lennepbuurt</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_26__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_26__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Van_Lennepbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Van_Lennepbuurt_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_26__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_26__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Van_Lennepbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Van_Lennepbuurt_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <!--<!-\-Intrekken-\-><Begrip eId="cmp_I__content_o_1__list_o_1__item_o_28" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28"><Term>Vondelbuurt</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Vondelbuurt_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Vondelbuurt_2/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>-->
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_28" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_27"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_27">
                               <Term>Weesperbuurt_Plantage</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_27__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_27__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_29" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_29">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_28"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28">
                               <Term>Weesperzijde</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_29__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_29__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Weesperzijde_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Weesperzijde_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Weesperzijde_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Weesperzijde_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <!--Gewijzigd-->
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_30" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_30">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_29"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_29">
                               <Term>MultiLijn</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_30__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_30__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_MultiLijn_2/nld@2022;2">/join/id/regdata/gm0363/2022/1_MultiLijn_2/nld@2022;2</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_29__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_29__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_MultiLijn_2/nld@2022;2">/join/id/regdata/gm0363/2022/1_MultiLijn_2/nld@2022;2</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_31" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_31">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_30"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_30">
                               <Term>Lijn1</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Lijn1_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Lijn1_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_30__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_30__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_Lijn1_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Lijn1_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_32" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_32">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_31"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_31">
                               <Term>TweeLijnen</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_32__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_32__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_TweeLijnen_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_TweeLijnen_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_TweeLijnen_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_TweeLijnen_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <!--Intrekken-->
                            <!--<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_34" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_34"><Term>Verdwlijn</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_Verdwlijn_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_Verdwlijn_2/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>-->
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_33" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_33">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_32"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_32">
                               <Term>LijnIntrVerv</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_33__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_33__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_LijnIntrVerv_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_LijnIntrVerv_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_32__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_32__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_LijnIntrVerv_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_LijnIntrVerv_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_34" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_34">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_33"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_33">
                               <Term>PuntengroepOngewijzigd</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_PuntengroepOngewijzigd_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_PuntengroepOngewijzigd_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_33__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_33__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_PuntengroepOngewijzigd_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_PuntengroepOngewijzigd_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_35" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_35">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_34"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_34">
                               <Term>PuntengroepNaamWijziging</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_35__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_35__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_PuntengroepNaamWijziging_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_PuntengroepNaamWijziging_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_PuntengroepNaamWijziging_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_PuntengroepNaamWijziging_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <!--Gewijzigd-->
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_36" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_36">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_35"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_35">
                               <Term>PuntengroepLocatieWijziging</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_36__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_36__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging_2/nld@2022;2">/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging_2/nld@2022;2</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_35__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_35__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging_2/nld@2022;2">/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging_2/nld@2022;2</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <!--Intrekken-->
                            <!--<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_39" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_39"><Term>PuntengroepBeeindiging</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_39__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_39__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_PuntengroepBeeindiging_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_PuntengroepBeeindiging_2/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>-->
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_37" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_37">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_36"
+                                   wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_36">
                               <Term>PuntengroepIntrekkenVervangen</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_37__ref_o_1" wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_37__ref_o_1" ref="/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen_2/nld@2022;1</ExtIoRef>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_36__ref_o_1"
+                                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_36__ref_o_1"
+                                              ref="/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
