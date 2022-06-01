@@ -82,28 +82,28 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+                  <doel>/join/id/proces/gm0363/2022/DefinitieveWijziging</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur/nld@2</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+                  <doel>/join/id/proces/gm0363/2022/DefinitieveWijziging</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt/nld@2022;2</instrumentVersie>
                <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+                  <doel>/join/id/proces/gm0363/2022/DefinitieveWijziging</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0363/2022/1_MultiLijn/nld@2022;2</instrumentVersie>
                <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+                  <doel>/join/id/proces/gm0363/2022/DefinitieveWijziging</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging/nld@2022;2</instrumentVersie>
                <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_38__ref_o_1</eId>
@@ -112,21 +112,21 @@
          <!--<Intrekkingen>
             <Intrekking>
                <doelen>
-                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+                  <doel>/join/id/proces/gm0363/2022/DefinitieveWijziging</doel>
                </doelen>
                <instrument>/join/id/regdata/gm0363/2022/1_PuntengroepBeeindiging</instrument>
                <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_39__ref_o_1</eId>
             </Intrekking>
             <Intrekking>
                <doelen>
-                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+                  <doel>/join/id/proces/gm0363/2022/DefinitieveWijziging</doel>
                </doelen>
                <instrument>/join/id/regdata/gm0363/2022/1_Verdwlijn</instrument>
                <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_34__ref_o_1</eId>
             </Intrekking>
             <Intrekking>
                <doelen>
-                  <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+                  <doel>/join/id/proces/gm0363/2022/DefinitieveWijziging</doel>
                </doelen>
                <instrument>/join/id/regdata/gm0363/2022/1_Vondelbuurt</instrument>
                <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_28__ref_o_1</eId>
@@ -134,9 +134,9 @@
          </Intrekkingen>-->
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/gm0363/2022/Wijziging</doel>
+               <doel>/join/id/proces/gm0363/2022/DefinitieveWijziging</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2021-03-03</datum>
+               <datum>2022-03-03</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>

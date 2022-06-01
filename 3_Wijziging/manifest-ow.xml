@@ -5,7 +5,7 @@
    <domein>omgevingswet</domein>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur</WorkIDRegeling>
-      <DoelID>/join/id/proces/gm0363/2022/Wijziging</DoelID>
+      <DoelID>/join/id/proces/gm0363/2022/DefinitieveWijziging</DoelID>
       <Bestand>
          <naam>owActiviteiten.xml</naam>
          <objecttype>Activiteit</objecttype>

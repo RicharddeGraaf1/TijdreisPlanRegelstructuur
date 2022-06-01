@@ -219,6 +219,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Omgevingswaarde>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm0363.omgevingswaarde.Overstromingskans1op200</rol:identificatie>
                <rol:naam>Overstromingskans1op200 GewijzigdeNaam</rol:naam>
                <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</rol:type>
@@ -238,6 +239,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Omgevingswaarde>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm0363.omgevingswaarde.Overstromingskans1op300</rol:identificatie>
                <rol:naam>Overstromingskans1op300</rol:naam>
                <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</rol:type>
@@ -260,6 +262,7 @@
          <ow-dc:owObject>
             <rol:Omgevingswaarde>
                <ow:status>beëindigen</ow:status>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <rol:identificatie>nl.imow-gm0363.omgevingswaarde.Overstromingskans1op400</rol:identificatie>
                <rol:naam>Overstromingskans1op400</rol:naam>
                <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/NogToeTeVoegen</rol:type>
