@@ -5,7 +5,7 @@
    <domein>omgevingswet</domein>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuurNieuw</WorkIDRegeling>
-      <DoelID>/join/id/proces/gm0363/2022/IntrEnVervangen</DoelID>
+      <DoelID>/join/id/proces/gm0363/2022/IntrEnVervangenTijdreisPlan</DoelID>
       <Bestand>
          <naam>owActiviteiten.xml</naam>
          <objecttype>Activiteit</objecttype>
@@ -23,6 +23,10 @@
          <naam>owLocaties.xml</naam>
          <objecttype>Gebiedengroep</objecttype>
          <objecttype>Gebied</objecttype>
+         <objecttype>Lijnengroep</objecttype>
+         <objecttype>Lijn</objecttype>
+         <objecttype>Puntengroep</objecttype>
+         <objecttype>Punt</objecttype>
       </Bestand>
       <Bestand>
          <naam>owRegeltekst.xml</naam>
