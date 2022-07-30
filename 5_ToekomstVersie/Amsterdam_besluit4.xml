@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/gm0363/2022/TijdsreisplanToekomstversie</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm0363/2022/TijdsreisplanToekomstversie/nld@2022</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0363</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <officieleTitel>Vaststelling van Omgevingsplan Gemeentestad (Zaltbommel)</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2021-06-17</bekendOp>
+         <procedurestappen><!-- Vaststelling -->
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2021-08-03</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2021-08-05</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/5meiWijziging</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuurNieuw/nld@2</instrumentVersie>
+               <eId>art_I</eId>
+            </BeoogdeRegeling>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/gm0363/2022/5meiWijziging</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2022-05-05</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Vaststelling van Omgevingsplan Gemeentestad (Zaltbommel)</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>De raad van de gemeente Gemeenstestad </Al>
+            <Al>gelezen het voorstel van burgemeester en wethouders van 26 juni 2019, nr. 2019-4542;</Al>
+            <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149"
+                       soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
+            <Al>besluit:</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="gm0363_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Wat>Het omgevingsplan Amsterdam opgenomen in <IntRef ref="cmp_A" scope="WijzigBijlage">Bijlage A</IntRef> kan worden vastgesteld.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="gm0363_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit besluit treedt in werking per 5 mei 2022.</Al>
+               </Inhoud>
+            </Artikel>
+            <Artikel eId="art_III" wId="gm0363_1__art_III">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>III</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Het omgevingsplan van rechtswege vervalt voor het Pons-informatieobject van dit artikel.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>Amsterdam</Al>
+            <Ondertekening>
+               <Al>Dio ft. Sef - Tijdmachine</Al>
+            </Ondertekening>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_A" wId="gm0363_1__cmp_A">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>A</Nummer>
+               <Opschrift>Bijlage bij artikel I</Opschrift>
+            </Kop>
+            <RegelingMutatie componentnaam="voegtoe" was="/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuurNieuw/nld@1" 
+               wordt="/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuurNieuw/nld@2">
+               <VoegToe positie="volgtOp" context="gm0363_1__chp_1__art_1.4">
+                  <Artikel wId="gm0363_1__chp_1__art_1.5" eId="chp_1__art_1.5">
+                     <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>1.5</Nummer>
+                        <Opschrift>5 mei wijziging</Opschrift>
+                     </Kop>
+                     <Inhoud>
+                        <Al>Het is 5 mei en dit is een wijziging voor de viewer.</Al>
+                     </Inhoud>
+                  </Artikel>
+               </VoegToe>
+               <VoegToe positie="volgtOp" context="gm0363_1__chp_7__art_7.3">
+                  <Artikel eId="chp_7__art_7.4" wId="gm0363_1__chp_7__art_7.4">
+                     <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>7.4</Nummer>
+                        <Opschrift>Tweede verwijzing naar Gebiedsaanwijzing</Opschrift>
+                     </Kop>
+                     <Inhoud>
+                        <Al>Dit is een artikel dat ook verwijst naar een Gebiedsaanwijzing, maar na de wijziging van 2022-03-03 niet meer. </Al>
+                     </Inhoud>
+                  </Artikel>
+               </VoegToe>
+            </RegelingMutatie>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuurNieuw</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuurNieuw/nld@2</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0363</maker>
+         <!--soortBestuursorgaan is 'gemeenteraad'.-->
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Tijdreisplan (Amsterdam - regels)</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <officieleTitel>Tijdreisplan (Amsterdam - regels)</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
+         <!-- Omgevingsplan -->
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>
