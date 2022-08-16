@@ -19,7 +19,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <rg:Regelingsgebied>
-               <rg:identificatie>nl.imow-gm0363.regelingsgebied.amsterdamtijdreis2</rg:identificatie>
+               <rg:identificatie>nl.imow-gm0363.regelingsgebied.amsterdamtijdreis</rg:identificatie>
                <rg:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/>
                </rg:locatieaanduiding>
