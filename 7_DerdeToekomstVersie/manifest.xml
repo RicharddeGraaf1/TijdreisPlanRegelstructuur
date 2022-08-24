@@ -4,5 +4,4 @@
       <bestand><bestandsnaam>manifest-ow.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>manifest.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>opdracht.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
-   <bestand><bestandsnaam>owRegeltekst.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
 </manifest>
