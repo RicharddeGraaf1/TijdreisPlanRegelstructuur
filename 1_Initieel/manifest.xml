@@ -90,4 +90,6 @@
    <bestand><bestandsnaam>TweeLijnen.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>Verdwlijn.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
    <bestand><bestandsnaam>Verdwlijn.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>VierkantenAmsterdam.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
+   <bestand><bestandsnaam>VierkantenAmsterdam.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
 </manifest>

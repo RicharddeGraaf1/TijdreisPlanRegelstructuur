@@ -23,11 +23,6 @@
          <naam>owLocaties.xml</naam>
          <objecttype>Gebiedengroep</objecttype>
          <objecttype>Gebied</objecttype>
-         <objecttype>Lijn</objecttype>
-         <objecttype>Lijnengroep</objecttype>
-         <objecttype>Punt</objecttype>
-         <objecttype>Puntengroep</objecttype>
-         <objecttype>Ambtsgebied</objecttype>
       </Bestand>
       <Bestand>
          <naam>owRegeltekst.xml</naam>

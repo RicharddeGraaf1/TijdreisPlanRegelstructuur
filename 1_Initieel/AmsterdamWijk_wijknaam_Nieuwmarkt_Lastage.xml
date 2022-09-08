@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Nieuwmarkt_Lastage</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Nieuwmarkt_Lastage/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Nieuwmarkt_Lastage</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Nieuwmarkt_Lastage/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Nieuwmarkt_Lastage.gml</bestandsnaam>
-                  <hash>daa9601c2060b9841d8287444079f8a5112166b676b2fac99691593916b3d2df79e7c4907da86ea4e7e86ee99fc4ee3f8ff97a089c81f1a4a1d2a7a119e882b9</hash>
+                  <hash>34d586b3a20a6ceece52f6fb9f6d1a065bd0ff86c6f34d99fc676334b891f6bd38f77d962e3674fc4069168e6e20a836b11d36bb752fc5d5c5e1a7780e20d375</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Nieuwmarkt_Lastage</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Nieuwmarkt_Lastage</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Nieuwmarkt_Lastage</naamInformatieObject>

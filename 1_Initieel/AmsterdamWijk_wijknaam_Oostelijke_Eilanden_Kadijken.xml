@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Oostelijke_Eilanden_Kadijken</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Oostelijke_Eilanden_Kadijken/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Oostelijke_Eilanden_Kadijken.gml</bestandsnaam>
-                  <hash>6ae9cfab9af77026184879559bd9393993ebfc4cb454ed06b21abfd4a7b83ab56bf8bc133456c3a50ff445d5cbdc5d53f61080850dc2974eefb37e790aed6b65</hash>
+                  <hash>3faae7000648d5963b84d7494231a8678cb23d739067858d6a40cd3693b015546ad9bdd6a5c0f3d729a0f39fa67708c032f43156b2ff4186351feeda1b5bdd45</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Oostelijke_Eilanden_Kadijken</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Oostelijke_Eilanden_Kadijken</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Oostelijke Eilanden_Kadijken</naamInformatieObject>

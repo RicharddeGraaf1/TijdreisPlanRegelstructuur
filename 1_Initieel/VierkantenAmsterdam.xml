@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Weesperzijde</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Weesperzijde/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -15,8 +15,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>AmsterdamWijk_wijknaam_Weesperzijde.gml</bestandsnaam>
-                  <hash>9b1542bc4a241b6207837ac0fe943307434ffe2098dcec3aa6ac1bd9d208503994c02ca94fdb7b78391cc191f695f76d1b34ee3b179e373f9df643f6417b7b44</hash>
+                  <bestandsnaam>VierkantenAmsterdam.gml</bestandsnaam>
+                  <hash>0ac1f2426e6b94290010158bfe7177300a05a1c83ac1e57b431924542706d7345335c8a6be3f59621fd577562632496e4a37205b2c388d6b25c8cc60369e2b72</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,10 +27,10 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Weesperzijde</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <naamInformatieObject>Weesperzijde</naamInformatieObject>
+         <naamInformatieObject>Vierkanten</naamInformatieObject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>

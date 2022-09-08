@@ -19,11 +19,6 @@
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
             <sl:objectType>Gebiedengroep</sl:objectType>
-            <sl:objectType>Lijn</sl:objectType>
-            <sl:objectType>Lijnengroep</sl:objectType>
-            <sl:objectType>Punt</sl:objectType>
-            <sl:objectType>Puntengroep</sl:objectType>
-            <sl:objectType>Ambtsgebied</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
@@ -868,16 +863,48 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <l:Ambtsgebied>
-               <l:identificatie>nl.imow-gm0363.ambtsgebied.kadastertest</l:identificatie>
-               <l:bestuurlijkeGrenzenVerwijzing>
-                  <l:BestuurlijkeGrenzenVerwijzing>
-                     <l:bestuurlijkeGrenzenID>GM0363</l:bestuurlijkeGrenzenID>
-                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
-                     <l:geldigOp>2022-03-01</l:geldigOp>
-                  </l:BestuurlijkeGrenzenVerwijzing>
-               </l:bestuurlijkeGrenzenVerwijzing>
-            </l:Ambtsgebied>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.vierkantjestest</l:identificatie>
+               <l:noemer>vierkantjes test, met nu vierkantjes 1 2 en 3</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.vierkantje1"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.vierkantje2"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.vierkantje3"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.vierkantje1</l:identificatie>
+               <l:noemer>vierkantje 1</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="3ae2a0aa-d460-41bd-a0d1-e6e522348836"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.vierkantje2</l:identificatie>
+               <l:noemer>vierkantje 2</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="1ee1eff7-0b42-4a73-9b8b-14b698d05a3d"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.vierkantje3</l:identificatie>
+               <l:noemer>vierkantje 3</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="8a6af42f-afe5-4841-b588-a808d60f40fb"/>
+               </l:geometrie>
+            </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
    </sl:standBestand>

@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Volewijck</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Volewijck/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Volewijck</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Volewijck/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Volewijck.gml</bestandsnaam>
-                  <hash>94e8a37f87d84146a10da46809859573a58fcac57d18eeb57408d338f393109b072348101d748bef6074f4195df7b0e8cd6bf2924fae9f7e05ac0b97b2eb3cf8</hash>
+                  <hash>9416d2aeeafa380b5f01ac3a46caae4388c66d578dfb046b0109d5346a2f13015e23da3e41baa2a734e844d5228772de8b307298ce547e883b4a2151aead5d6a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Volewijck</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Volewijck</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Volewijck</naamInformatieObject>

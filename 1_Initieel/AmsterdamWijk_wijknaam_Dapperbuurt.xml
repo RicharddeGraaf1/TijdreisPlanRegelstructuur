@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Dapperbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Dapperbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Dapperbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Dapperbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Dapperbuurt.gml</bestandsnaam>
-                  <hash>a52ac0cbbf63f385280339e9542a9160353b751551245b3dd9b8d7132c60efe874d955284ae59d255fe886d83af0f6c5545984c085110f6fa9d23e9e8e963f7f</hash>
+                  <hash>8c9ec96d7e277d579e030bb72d9e6bd941abd42cbe93e654237431915e3feb90ee7b52901524c532198917dcb4b8d2912020e69674b42a4399164f4ea534f5fb</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Dapperbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Dapperbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Dapperbuurt</naamInformatieObject>

@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_De_Weteringschans</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_De_Weteringschans/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_De_Weteringschans</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_De_Weteringschans/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_De_Weteringschans.gml</bestandsnaam>
-                  <hash>b4ae8183887fcad4b46c6b552fb7b6f8fed65096048bb4885dfc68d3d327ded85e5f953506526305c5b07505fbc40a1b65059cccd0170d8376a628a7246a1999</hash>
+                  <hash>03716aa38dd41dcb2ef48670c49f3673412bd5e1a7c21fae14f49601d3d121cad29fba2aa1fd684e12a0d42bbec79924e342f940ed169008c4121bbc7cab5707</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_De_Weteringschans</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_De_Weteringschans</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>De Weteringschans</naamInformatieObject>

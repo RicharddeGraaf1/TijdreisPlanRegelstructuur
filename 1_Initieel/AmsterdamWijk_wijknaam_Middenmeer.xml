@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Middenmeer</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Middenmeer/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Middenmeer</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Middenmeer/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Middenmeer.gml</bestandsnaam>
-                  <hash>4364e7ea21787c443e48c6ba84a6d47baa7d474ea377fed7ab8f6f5db192c6eace722f99f7e56acce6355ee9794ee74bfd80c845e15500186e9d819dbe03baca</hash>
+                  <hash>8bfe44fbd34dc974e7764eb4669e0f26b6df1f11fe5a3e861a9ab174a91bcb0792c24d0bc8b7f392cae897014e2bfee289143b21988d55abf22a77467c5f2ced</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Middenmeer</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Middenmeer</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Middenmeer</naamInformatieObject>

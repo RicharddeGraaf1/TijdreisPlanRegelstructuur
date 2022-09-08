@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Museumkwartier</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Museumkwartier/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Museumkwartier</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Museumkwartier/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Museumkwartier.gml</bestandsnaam>
-                  <hash>81b8c6cce61a44e2bd234f1ccecea4e980b67c684dabed36f83580ee482a613c02560caab48e0ac59c3331542b028186fd855cf9d3a34bc23e194a8549d798e0</hash>
+                  <hash>8534e041831a28761e2fc6e379852467eafb8021d21e380b5afb6e1e6a64f6a69ce4669f7dfd62f2d9f44fe7e50973bb12b85270458dd228aedb78b8b3ecafce</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Museumkwartier</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Museumkwartier</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Museumkwartier</naamInformatieObject>

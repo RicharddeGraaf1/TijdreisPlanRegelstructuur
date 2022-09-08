@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_LijnIntrVerv</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_LijnIntrVerv/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_LijnIntrVerv</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_LijnIntrVerv/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>LijnIntrVerv.gml</bestandsnaam>
-                  <hash>4e35ceea0199fff255a185f11f12dd8e58e21931012ae32be7576e6809a34903f0428c72c8d79f9c0c45e1cc8284f825473ff9da6bc0175d09d1e20083fb46ce</hash>
+                  <hash>7957b18fe0291df951505b2cdbe2305ef9ac8cc0626dcb60fec3f1b4717399b18758f5ac3b730887efcd5ad9ac6038aeb6a7447526dd4814367ef57c70efedf6</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_LijnIntrVerv</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_LijnIntrVerv</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>LijnIntrVerv</naamInformatieObject>

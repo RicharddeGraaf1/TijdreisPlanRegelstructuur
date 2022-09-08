@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Indische_Buurt_West</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Indische_Buurt_West/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Indische_Buurt_West</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Indische_Buurt_West/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Indische_Buurt_West.gml</bestandsnaam>
-                  <hash>4603e98849d80ec0ed9de5aa7fde1ae01e4f04fb2eb150a6c39b9e53b1e23618935b90380e95c5c3b6621050288736ca3060a30a3b1093fb70e159cbc6ca53d0</hash>
+                  <hash>ec9a06cd856203792ca4d119d3bad0bb23cddf6828a198b1637ab1b82f9671e1368328c4fa82ccda54540410e299b6a088f6abfd1a1bde441706662a9f4c8edf</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Indische_Buurt_West</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Indische_Buurt_West</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Indische Buurt West</naamInformatieObject>

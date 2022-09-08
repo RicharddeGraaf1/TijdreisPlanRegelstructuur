@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_PuntengroepLocatieWijziging</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_PuntengroepLocatieWijziging/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>PuntengroepLocatieWijziging.gml</bestandsnaam>
-                  <hash>a509e23c57e3ecfb29f392ac211063ba7de3920b17f323a52b0517ba026dc4f1fc7cda972109be64397231c318c3e845e6af83d5011fa17345d2388b2c0ecf10</hash>
+                  <hash>7a5c6ad8d5f236f1666bdb648466f46c14a0f0ee2cb7712bed4c2274d6fcf470b900361294b0a39f406677390fedb87ac74460a3476afd9fbc3d89c5038aa8e1</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_PuntengroepLocatieWijziging</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>PuntengroepLocatieWijziging</naamInformatieObject>

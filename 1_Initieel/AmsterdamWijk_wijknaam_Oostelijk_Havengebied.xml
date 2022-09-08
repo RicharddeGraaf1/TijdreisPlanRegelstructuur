@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Oostelijk_Havengebied</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Oostelijk_Havengebied/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Oostelijk_Havengebied.gml</bestandsnaam>
-                  <hash>1fda4dde4f296ee3f36b08d1e6b19b70752a87fd16741358a63d0666b9946654903b3ac53aa26bb4605c3df28e285ce21400561310f99d4b111b973da8da675b</hash>
+                  <hash>c96deae0ebb7fd71eb720e084a19e905c46c6ade0e0175b24cf7160b8fe385e11992dcadccfd5fe4df64e2e659e4b18d973da7569970345542c1964a341b48fd</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Oostelijk_Havengebied</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Oostelijk_Havengebied</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Oostelijk Havengebied</naamInformatieObject>

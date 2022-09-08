@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Vondelbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Vondelbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Vondelbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Vondelbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Vondelbuurt.gml</bestandsnaam>
-                  <hash>8513ff66ec34650b34445edf0a067c6d9f20f1e928ed054dc85783d45c8ec693e8b1b016b4344f9cf081476f5e3db5fdce5cec5c6864008ca43571a6054d16f3</hash>
+                  <hash>9a59ac5b79733e0a61ce384c612412b710e903537dc3e4382195610a604143b1b8f4c28b213f66815554b3e09066fa4bf5597ddfaa06353a071ea88e0e2db0a8</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Vondelbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Vondelbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Vondelbuurt</naamInformatieObject>

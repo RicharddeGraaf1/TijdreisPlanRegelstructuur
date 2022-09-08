@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/gm0363/2022/1_TweeLijnen</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/1_TweeLijnen/nld@2022;1</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/gm0363/2022/1a_TweeLijnen</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/1a_TweeLijnen/nld@2022;1</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>TweeLijnen</geo:naam>

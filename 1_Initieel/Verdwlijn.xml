@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Verdwlijn</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Verdwlijn/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Verdwlijn</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Verdwlijn/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Verdwlijn.gml</bestandsnaam>
-                  <hash>f5a5d007f3a31b839ae96a87d731fbca5f1129feba065c8ae3eb0e4b43d044b1ba59d72dd187bbb66cda43085287c0a124c188637fc2091fa3efb54217e90af0</hash>
+                  <hash>13602cfddaecc4b97cee7f0f078c6673b1c08d41a83fd419c0c77aca92537369c00a01dff5e4bd2520646e837d7c1682163832f7da11c76af9d18e024d211404</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Verdwlijn</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Verdwlijn</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Verdwlijn</naamInformatieObject>

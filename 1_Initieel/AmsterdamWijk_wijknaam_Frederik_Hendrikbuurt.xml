@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Frederik_Hendrikbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Frederik_Hendrikbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Frederik_Hendrikbuurt.gml</bestandsnaam>
-                  <hash>2defa0b925cb1da7dab8147f8f040543e7afb7d102dd207d03dfd8eb2a48583667896eb32e06ccfcb3337fbca15de5e78c360d478674379394354f270aed2f59</hash>
+                  <hash>1bdb51b848326c519b2eebfbaa70b338396d0f5a0b59dd886834231fbd380b4e22d7c5f545cc8c807d49d4f3f6cc5776de1c80dac59a50f3e6ca173578d2f2db</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Frederik_Hendrikbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Frederik_Hendrikbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Frederik Hendrikbuurt</naamInformatieObject>

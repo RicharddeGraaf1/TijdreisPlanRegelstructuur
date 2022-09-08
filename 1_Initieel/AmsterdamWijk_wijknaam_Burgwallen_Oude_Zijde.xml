@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Burgwallen-Oude_Zijde</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Burgwallen-Oude_Zijde/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Burgwallen-Oude_Zijde</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Burgwallen-Oude_Zijde/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Burgwallen_Oude_Zijde.gml</bestandsnaam>
-                  <hash>1bf0bd486e79be2b9f9d520650444ad90761bddbae7d8f4f1cef2c240dc49983a256e273770d1afb1f578b95e3139bc28176395f969f205788f63fa96326e2e9</hash>
+                  <hash>c5014fbccadac8c862b2a725bd533a3d8d0971d83803565d8e27b1dd9cbf81b2ac51c0844f9d0de06f19e0b6f82b52fb64dd0dc7d984759da7094414e7746543</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Burgwallen-Oude_Zijde</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Burgwallen-Oude_Zijde</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Burgwallen-Oude Zijde</naamInformatieObject>

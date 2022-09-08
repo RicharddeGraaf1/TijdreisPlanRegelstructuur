@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Oosterparkbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Oosterparkbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Oosterparkbuurt.gml</bestandsnaam>
-                  <hash>6475cc3f6af9a8d7f5149339c905f1780e9e3a7d82a42ff42d7ee79fc3e9c70db8862710e198ee9734659ed374ffd37156e82cac44f40bf414a6a4672cabe51a</hash>
+                  <hash>60aa929ae49bcc1ecea91d23ec62a5d8ce53fdbf63dd7af44d95099203d2bd07825b026f3ae8eaf1544ba5912effbda25a3b4c36f3f1db57db1837948bd30f69</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Oosterparkbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Oosterparkbuurt</naamInformatieObject>

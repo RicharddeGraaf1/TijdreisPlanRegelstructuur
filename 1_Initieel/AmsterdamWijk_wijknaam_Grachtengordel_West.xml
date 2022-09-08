@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Grachtengordel-West</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Grachtengordel-West/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Grachtengordel-West</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Grachtengordel-West/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Grachtengordel_West.gml</bestandsnaam>
-                  <hash>d91e94ae424aab7b90ae85e55db31db9584d12c826092b8e9f6e3c7ca591f4ddf279c1f8e4dcd0be99aa96b8cae02561cc2804a529630398a8ec8631b50812b0</hash>
+                  <hash>f64659d3414047c9d9b453353e45b800beb58ffb0d42ee4c9e0e9ac232833f30a28666af37e6815a9ba1aaa07ccd0946b27a7bd8e25b33edf60e07ab0afca6e0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Grachtengordel-West</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Grachtengordel-West</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Grachtengordel-West</naamInformatieObject>

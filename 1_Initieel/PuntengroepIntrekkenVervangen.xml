@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_PuntengroepIntrekkenVervangen</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_PuntengroepIntrekkenVervangen/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>PuntengroepIntrekkenVervangen.gml</bestandsnaam>
-                  <hash>732d193b1b5c38048b1d2b41a23672ff1036d65794a88678ba4eca054d71bcafdf299dd1bcd120a019fa2b1a8bf0b7b196b018246c7029857ba80d567f172a9e</hash>
+                  <hash>8d2e759de89271cf108fde8cd61bf68d2a007b88d4188997c64b869f7fc8964db0c2c11bfe3db73d12a255f0f895906098ff58de71b3b9417beaf11bfbd223a4</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_PuntengroepIntrekkenVervangen</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>PuntengroepIntrekkenVervangen</naamInformatieObject>

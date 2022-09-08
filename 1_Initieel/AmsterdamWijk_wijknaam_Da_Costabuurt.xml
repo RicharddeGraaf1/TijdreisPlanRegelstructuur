@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Da_Costabuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Da_Costabuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Da_Costabuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Da_Costabuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Da_Costabuurt.gml</bestandsnaam>
-                  <hash>bbc66daad1691f19c3656c87965dbab640b27e7e8f7bf5ec5671e8a3f4a2e5bd16cc2037a0c37df6d9089538aea7225d7fbb5c7df4dd1d0107b28caffc79ef03</hash>
+                  <hash>deed9fb3e0f8a3a0b40b8b0132408dacd452cc7a3f22c813911cad1dd50d2ea9414edd04eb110f36130e6c9949dbdaac0d8f7ff389a0ce8a7c2e7a9de6b42d4d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Da_Costabuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Da_Costabuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Da Costabuurt</naamInformatieObject>

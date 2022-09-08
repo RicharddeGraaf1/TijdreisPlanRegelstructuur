@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Staatsliedenbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Staatsliedenbuurt/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Staatsliedenbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Staatsliedenbuurt/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Staatsliedenbuurt.gml</bestandsnaam>
-                  <hash>c3130cc93f80347ae2bca2f55d87a0264acbde5026ca68006714561df3fcd2e0f2d64a47f0d45e51bae5b787af03b3b4496993da49516dfa69bad31b285da167</hash>
+                  <hash>483a1dfa445a703bb5e20873c51b781da7f1d09805ece2a555c80176f8780fc6f44bb6d925b88c1732982582166bd3e7d085f4cb4382872bdefbad11b5314109</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Staatsliedenbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Staatsliedenbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Staatsliedenbuurt</naamInformatieObject>

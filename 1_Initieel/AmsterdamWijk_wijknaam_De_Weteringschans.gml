@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/gm0363/2022/1_De_Weteringschans</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/1_De_Weteringschans/nld@2022;1</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/gm0363/2022/1a_De_Weteringschans</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/1a_De_Weteringschans/nld@2022;1</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>De Weteringschans</geo:naam>

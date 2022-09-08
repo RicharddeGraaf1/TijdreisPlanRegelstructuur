@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Weesperbuurt_Plantage</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Weesperbuurt_Plantage/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Weesperbuurt_Plantage.gml</bestandsnaam>
-                  <hash>4e294dea3824cbbe9e8116db6d83f1265fb7e00eaffbaf8330be73c6beae58b2ab19fb12763449fa6db336bf780a4a2b3c3f376196361b9d47b588ac05acfb6d</hash>
+                  <hash>f9f5b5b118d508528473406c765b7fdcaf20cfe856a46008ec3eed9f636f42807a614721e9765f623fed4ad049073fa6256973fbd30efbf5f580177f1de821da</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Weesperbuurt_Plantage</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Weesperbuurt_Plantage</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Weesperbuurt_Plantage</naamInformatieObject>

@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Noordelijke_IJ-oevers_West</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Noordelijke_IJ-oevers_West/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Noordelijke_IJ_oevers_West.gml</bestandsnaam>
-                  <hash>1f4aa2edcf3f92982a8d76d066ba7ea3efd934ec4d1e1484f9f521d1892e11a60d7187bc124aa26c4b500e293e5b40dd50fb322f8d036fcad2a37a1a830b098a</hash>
+                  <hash>0f9440ee4e9601cfaa157117588b69addc9a39a7e4a336be477d792cba1ef05dcc24ccd5dd075077b1347584ded5d1f39177e30435ab786256f85598e3c231c5</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Noordelijke_IJ-oevers_West</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Noordelijke_IJ-oevers_West</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Noordelijke IJ-oevers West</naamInformatieObject>

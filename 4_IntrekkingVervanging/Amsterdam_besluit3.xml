@@ -1172,6 +1172,42 @@
                         </Inhoud>
                      </Artikel>
                   </Hoofdstuk>
+                  <Hoofdstuk wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1" eId="chp_9">
+                     <Kop>
+                        <Label>Hoofdstuk</Label>
+                        <Nummer>9</Nummer>
+                        <Opschrift>Structuurtests</Opschrift>
+                     </Kop>
+                     <Paragraaf wId="gm0363_1__chp_9__subsec_9.1" eId="chp_9__subsec_9.1">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>9.1</Nummer>
+                           <Opschrift>Paragraaf van structuurtests</Opschrift>
+                        </Kop>
+                        <Subparagraaf wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1" eId="chp_9__subsec_9.1__subsec_9.1.1">
+                           <Kop>
+                              <Label>Subparagraaf</Label>
+                              <Nummer>9.1.1</Nummer>
+                              <Opschrift>SubParagraaf van structuurtests</Opschrift>
+                           </Kop>
+                           <Subsubparagraaf wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1" eId="chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1">
+                              <Kop>
+                                 <Label>Subsubparagraaf</Label>
+                                 <Nummer>9.1.1.1</Nummer>
+                                 <Opschrift>Subsubparagraaf van structuurtests</Opschrift>
+                              </Kop>
+                              <Artikel wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1__art_9.1" eId="chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1__art_9.1">
+                                 <Kop>
+                                    <Label>Artikel</Label>
+                                    <Nummer>9.1</Nummer>
+                                    <Opschrift>Artikel in subsubparagraaf van structuurtests TestTanja</Opschrift>
+                                 </Kop>
+                                 <Inhoud><Al>Mooi artikel, leuk hè?</Al></Inhoud>
+                              </Artikel>
+                           </Subsubparagraaf>
+                        </Subparagraaf>
+                     </Paragraaf>
+                  </Hoofdstuk>
                </Lichaam>
                <Bijlage eId="cmp_I" wId="gm0363_1__cmp_I">
                   <Kop>
