@@ -123,7 +123,7 @@
                <rol:naam>OZON10403TestRegeltekst</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActInOmgevingsplan"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0363.activiteit.ActInOmgevingsplanGem2"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -135,7 +135,7 @@
                <rol:naam>OZON10403TestJuridischeRegel</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.ActInOmgevingsplan"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0363.activiteit.ActInOmgevingsplanGem2"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>

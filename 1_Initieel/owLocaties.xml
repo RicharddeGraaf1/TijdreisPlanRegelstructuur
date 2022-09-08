@@ -19,6 +19,11 @@
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
             <sl:objectType>Gebiedengroep</sl:objectType>
+            <sl:objectType>Lijn</sl:objectType>
+            <sl:objectType>Lijnengroep</sl:objectType>
+            <sl:objectType>Punt</sl:objectType>
+            <sl:objectType>Puntengroep</sl:objectType>
+            <sl:objectType>Ambtsgebied</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
@@ -905,6 +910,21 @@
                   <l:GeometrieRef xlink:href="8a6af42f-afe5-4841-b588-a808d60f40fb"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>nl.imow-gm0363.ambtsgebied.kadastertest</l:identificatie>
+               <l:noemer>Amsterdam</l:noemer>
+               <l:bestuurlijkeGrenzenVerwijzing>
+                  <l:BestuurlijkeGrenzenVerwijzing>
+                     <l:bestuurlijkeGrenzenID>GM0363</l:bestuurlijkeGrenzenID>
+                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+                     <l:geldigOp>2021-01-01</l:geldigOp>
+                  </l:BestuurlijkeGrenzenVerwijzing>
+               </l:bestuurlijkeGrenzenVerwijzing>
+            </l:Ambtsgebied>
          </ow-dc:owObject>
       </sl:stand>
    </sl:standBestand>
