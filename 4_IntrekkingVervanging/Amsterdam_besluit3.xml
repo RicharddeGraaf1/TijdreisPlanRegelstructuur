@@ -1114,6 +1114,90 @@
                            <Al>Dit is een artikel dat ook verwijst naar een Gebiedsaanwijzing, maar na de wijziging van 2022-03-03 niet meer. </Al>
                         </Inhoud>
                      </Artikel>
+                     <Artikel eId="chp_7__art_7.5" wId="gm0363_1__chp_7__art_7.5">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.5</Nummer>
+                           <Opschrift>TestTanja vervallen artikel</Opschrift>
+                        </Kop>
+                        <Vervallen/>
+                     </Artikel>
+                     <Artikel eId="chp_7__art_7.6" wId="gm0363_1__chp_7__art_7.6">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.6</Nummer>
+                           <Opschrift>InstructieregelTaakuitoefening</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Eigenlijk kan het niet in een omgevingsplan, maar goed hierbij een instructieregel taakuitoefening.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_7__art_7.7" wId="gm0363_1__chp_7__art_7.7">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.7</Nummer>
+                           <Opschrift>InstructieregelAdressaat</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Eigenlijk kan het niet in een omgevingsplan, maar goed hierbij een instructieregel adressaat.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_7__art_7.8" wId="gm0363_1__chp_7__art_7.8">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.8</Nummer>
+                           <Opschrift>JuridischeBronWijzigingDoorRegeltekstAanpassing</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Deze testcasus is obv OZON-10403 toegevoegd. Hierbij wordt een juridische bron gewijzigd doordat er twee regelteksten naar verwijzen, namelijk de regeltekst van artikel 7.8 en 7.9. Nu vervalt bij de wijziging straks artikel 7.8, waardoor de juridische bron artikel 7.9 zou moeten zijn.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_7__art_7.9" wId="gm0363_1__chp_7__art_7.9">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.9</Nummer>
+                           <Opschrift>JuridischeBronWijzigingDoorRegeltekstAanpassing</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Deze testcasus is obv OZON-10403 toegevoegd. Hierbij wordt een juridische bron gewijzigd doordat er twee regelteksten naar verwijzen, namelijk de regeltekst van artikel 7.8 en 7.9. Nu vervalt bij de wijziging straks artikel 7.8, waardoor de juridische bron artikel 7.9 zou moeten zijn.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_7__art_7.10" wId="gm0363_1__chp_7__art_7.10">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.10</Nummer>
+                           <Opschrift>JuridischeBronWijzigingDoorJuridischeRegelAanpassing</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Deze testcasus is obv OZON-10403 toegevoegd. Hierbij wordt een juridische bron gewijzigd doordat er twee juridische regels naar verwijzen, namelijk de juridische regel van artikel 7.10 en 7.11. Nu vervalt bij de wijziging straks artikel 7.10, waardoor de juridische bron artikel 7.11 zou moeten zijn.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_7__art_7.11" wId="gm0363_1__chp_7__art_7.11">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.11</Nummer>
+                           <Opschrift>JuridischeBronWijzigingDoorJuridischeRegelAanpassing</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Deze testcasus is obv OZON-10403 toegevoegd. Hierbij wordt een juridische bron gewijzigd doordat er twee juridische regels naar verwijzen, namelijk de juridische regel van artikel 7.10 en 7.11. Nu vervalt bij de wijziging straks artikel 7.10, waardoor de juridische bron artikel 7.11 zou moeten zijn.</Al>
+                        </Inhoud>
+                     </Artikel>
+                     <Artikel eId="chp_7__art_7.12" wId="gm0363_1__chp_7__art_7.12">
+                        <Kop>
+                           <Label>Artikel</Label>
+                           <Nummer>7.12</Nummer>
+                           <Opschrift>Locatiegroepaanpassingen</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Deze testcasus is om te kijken wat er gebeurt als je binnen een locatiegroep allerlei wijzigingen doorvoert. Er zijn vijf vierkantjes van linksboven naar linksonder zijn het 1, 2 en 3. Van rechtsboven naar rechtsonder zijn het 4 en 5.<br/>
+                              Vierkantje 1 blijft ongewijzigd.<br/> 
+                              Vierkantje 2 wordt verwijderd uit de gebiedengroep. <br/>
+                              Vierkantje 3 krijgt de geometrie van Vierkantje 4.<br/>
+                              Vierkantje 5 wordt toegevoegd in de gebiedengroep. <br/>
+                              Dit gebeurt allemaal in het ontwerp en de eerste wijziging, in intrekkenVervangen blijft de situatie in principe ongewijzigd t.o.v. de wijziging.
+                           </Al>
+                        </Inhoud>
+                     </Artikel>
                   </Hoofdstuk>
                   <Hoofdstuk eId="chp_8" wId="gm0363_1__chp_8">
                      <Kop>
@@ -1172,37 +1256,42 @@
                         </Inhoud>
                      </Artikel>
                   </Hoofdstuk>
-                  <Hoofdstuk wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1" eId="chp_9">
+                  <Hoofdstuk eId="chp_9" wId="gm0363_1__chp_9">
                      <Kop>
                         <Label>Hoofdstuk</Label>
                         <Nummer>9</Nummer>
                         <Opschrift>Structuurtests</Opschrift>
                      </Kop>
-                     <Paragraaf wId="gm0363_1__chp_9__subsec_9.1" eId="chp_9__subsec_9.1">
+                     <Paragraaf eId="chp_9__subsec_9.1" wId="gm0363_1__chp_9__subsec_9.1">
                         <Kop>
                            <Label>Paragraaf</Label>
                            <Nummer>9.1</Nummer>
                            <Opschrift>Paragraaf van structuurtests</Opschrift>
                         </Kop>
-                        <Subparagraaf wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1" eId="chp_9__subsec_9.1__subsec_9.1.1">
+                        <Subparagraaf eId="chp_9__subsec_9.1__subsec_9.1.1"
+                           wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1">
                            <Kop>
                               <Label>Subparagraaf</Label>
                               <Nummer>9.1.1</Nummer>
                               <Opschrift>SubParagraaf van structuurtests</Opschrift>
                            </Kop>
-                           <Subsubparagraaf wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1" eId="chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1">
+                           <Subsubparagraaf eId="chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1"
+                              wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1">
                               <Kop>
                                  <Label>Subsubparagraaf</Label>
                                  <Nummer>9.1.1.1</Nummer>
                                  <Opschrift>Subsubparagraaf van structuurtests</Opschrift>
                               </Kop>
-                              <Artikel wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1__art_9.1" eId="chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1__art_9.1">
+                              <Artikel eId="chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1__art_9.1"
+                                 wId="gm0363_1__chp_9__subsec_9.1__subsec_9.1.1__subsec_9.1.1.1__art_9.1">
                                  <Kop>
                                     <Label>Artikel</Label>
                                     <Nummer>9.1</Nummer>
                                     <Opschrift>Artikel in subsubparagraaf van structuurtests TestTanja</Opschrift>
                                  </Kop>
-                                 <Inhoud><Al>Mooi artikel, leuk hè?</Al></Inhoud>
+                                 <Inhoud>
+                                    <Al>Mooi artikel, leuk hè?</Al>
+                                 </Inhoud>
                               </Artikel>
                            </Subsubparagraaf>
                         </Subparagraaf>
@@ -1631,6 +1720,17 @@
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_36__ref_o_1"
                                               wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_36__ref_o_1"
                                               ref="/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen_2/nld@2022;1">/join/id/regdata/gm0363/2022/1_PuntengroepIntrekkenVervangen_2/nld@2022;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_37"
+                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_37">
+                              <Term>AmsterdamVierkanten</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_37__ref_o_1"
+                                       wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_37__ref_o_1"
+                                       ref="/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam/nld@2022;1">/join/id/regdata/gm0363/2022/1_VierkantenAmsterdam_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>

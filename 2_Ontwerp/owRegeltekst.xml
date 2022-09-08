@@ -6,6 +6,7 @@
    xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
    xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
    xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+   xmlns:op="http://www.geostandaarden.nl/imow/opobject"
    xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
    xmlns:l="http://www.geostandaarden.nl/imow/locatie"
    xmlns:r="http://www.geostandaarden.nl/imow/regels"
@@ -75,8 +76,17 @@
       <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_6__art_6.5"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp6art65</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
       <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_7__art_7.1"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp7art71</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
       <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_7__art_7.2"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp7art72</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
-      <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_7__art_7.3"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp7art73</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
-      <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_8__art_8.1"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp8art81</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
+      <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_7__art_7.3"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp7art73</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>-->
+         <sl:stand>
+               <ow-dc:owObject>
+                     <r:Regeltekst wId="gm0363_1__chp_7__art_7.8">
+                           <op:status>beëindigen</op:status>
+                           <op:procedurestatus>ontwerp</op:procedurestatus>
+                           <r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp7art78</r:identificatie>
+                     </r:Regeltekst>
+               </ow-dc:owObject>
+         </sl:stand>
+      <!--<sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_8__art_8.1"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp8art81</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
       <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_8__art_8.2"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp8art82</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
       <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_8__art_8.3"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp8art83</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
       <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_8__art_8.4"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp8art84</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
@@ -139,21 +149,29 @@
       <sl:stand><ow-dc:owObject><r:RegelVoorIedereen><ow:procedurestatus>ontwerp</ow:procedurestatus><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art71</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art71"/></r:artikelOfLid><r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</r:thema><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding><r:activiteitaanduiding><rol:ActiviteitRef xlink:href="nl.imow-gm0363.activiteit.ActInOmgevingsplanGem2"/><r:ActiviteitLocatieaanduiding><r:identificatie>nl.imow-gm0363.activiteitlocatieaanduiding.workaroundbovenliggende</r:identificatie><r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding></r:ActiviteitLocatieaanduiding></r:activiteitaanduiding></r:RegelVoorIedereen></ow-dc:owObject></sl:stand>
       <sl:stand><ow-dc:owObject><r:RegelVoorIedereen><ow:procedurestatus>ontwerp</ow:procedurestatus><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art72</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art72"/></r:artikelOfLid><r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Lucht</r:thema><r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</r:thema><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding></r:RegelVoorIedereen></ow-dc:owObject></sl:stand>
       <sl:stand><ow-dc:owObject><r:RegelVoorIedereen><ow:procedurestatus>ontwerp</ow:procedurestatus><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art73</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art73"/></r:artikelOfLid><r:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid</r:thema><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding></r:RegelVoorIedereen></ow-dc:owObject></sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <ow:procedurestatus>ontwerp</ow:procedurestatus>
-               <r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art74</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art74"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
+      <sl:stand><ow-dc:owObject><r:RegelVoorIedereen><ow:procedurestatus>ontwerp</ow:procedurestatus><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art74</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art74"/></r:artikelOfLid><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding></r:RegelVoorIedereen></ow-dc:owObject></sl:stand>
+      <sl:stand><ow-dc:owObject><r:Instructieregel><ow:procedurestatus>ontwerp</ow:procedurestatus><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art76</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art76"/></r:artikelOfLid><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding><r:instructieregelTaakuitoefening>http://standaarden.omgevingswet.overheid.nl/adressaat/id/concept/Zonebeheerder</r:instructieregelTaakuitoefening></r:Instructieregel></ow-dc:owObject></sl:stand>
+      <sl:stand><ow-dc:owObject><r:Instructieregel><ow:procedurestatus>ontwerp</ow:procedurestatus><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art77</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art77"/></r:artikelOfLid><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding><r:instructieregelInstrument>http://standaarden.omgevingswet.overheid.nl/instrument/id/concept/Calamiteitenplan</r:instructieregelInstrument></r:Instructieregel></ow-dc:owObject></sl:stand>
+      <sl:stand><ow-dc:owObject><r:RegelVoorIedereen><ow:status>beëindigen</ow:status><ow:procedurestatus>ontwerp</ow:procedurestatus><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art78</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art78"/></r:artikelOfLid><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding><r:activiteitaanduiding><rol:ActiviteitRef xlink:href="nl.imow-gm0363.activiteit.OZON10403TestRT"/><r:ActiviteitLocatieaanduiding><r:identificatie>nl.imow-gm0363.activiteit.OZON10403TestRTart78</r:identificatie><r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding></r:ActiviteitLocatieaanduiding></r:activiteitaanduiding></r:RegelVoorIedereen></ow-dc:owObject></sl:stand>
+      <sl:stand><ow-dc:owObject><r:RegelVoorIedereen><ow:procedurestatus>ontwerp</ow:procedurestatus><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art710</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art710"/></r:artikelOfLid><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding></r:RegelVoorIedereen></ow-dc:owObject></sl:stand>
+         <sl:stand>
+               <ow-dc:owObject>
+                     <r:RegelVoorIedereen>
+                           <ow:procedurestatus>ontwerp</ow:procedurestatus>
+                           <r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art712</r:identificatie>
+                           <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+                           <r:artikelOfLid>
+                                 <r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art712"/>
+                           </r:artikelOfLid>
+                           <r:locatieaanduiding>
+                                 <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.vierkantjestest"/>
+                                 <l:LocatieRef xlink:href="nl.imow-gm0363.gebied.vierkantje1"/>
+                                 <l:LocatieRef xlink:href="nl.imow-gm0363.gebied.vierkantje3"/>
+                                 <l:LocatieRef xlink:href="nl.imow-gm0363.gebied.vierkantje5"/>
+                           </r:locatieaanduiding>
+                     </r:RegelVoorIedereen>
+               </ow-dc:owObject>
+         </sl:stand>
       <!--<sl:stand><ow-dc:owObject><r:Omgevingswaarderegel><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp8art81</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp8art81"/></r:artikelOfLid><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding><r:omgevingswaardeaanduiding><rol:OmgevingswaardeRef xlink:href="nl.imow-gm0363.omgevingswaarde.Overstromingskans1op100"/></r:omgevingswaardeaanduiding></r:Omgevingswaarderegel></ow-dc:owObject></sl:stand>
       <sl:stand><ow-dc:owObject><r:Omgevingswaarderegel><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp8art82</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp8art82"/></r:artikelOfLid><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding><r:omgevingswaardeaanduiding><rol:OmgevingswaardeRef xlink:href="nl.imow-gm0363.omgevingswaarde.Overstromingskans1op200"/></r:omgevingswaardeaanduiding></r:Omgevingswaarderegel></ow-dc:owObject></sl:stand>
       <sl:stand><ow-dc:owObject><r:Omgevingswaarderegel><r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp8art83</r:identificatie><r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie><r:artikelOfLid><r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp8art83"/></r:artikelOfLid><r:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm0363.ambtsgebied.kadastertest"/></r:locatieaanduiding><r:omgevingswaardeaanduiding><rol:OmgevingswaardeRef xlink:href="nl.imow-gm0363.omgevingswaarde.Overstromingskans1op300"/></r:omgevingswaardeaanduiding></r:Omgevingswaarderegel></ow-dc:owObject></sl:stand>-->

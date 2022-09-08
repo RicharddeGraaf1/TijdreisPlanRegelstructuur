@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt_2</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt_2/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -15,8 +15,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>AmsterdamWijk_wijknaam_Oosterparkbuurt.gml</bestandsnaam>
-                  <hash>0eb1db33e5a7abdbb08237a3cec133e19acf8829782ef6676f05cb90aa9f1c94a3200580796353fa608da765a883498f5bb5d2017f44ffad977706a409be2c2c</hash>
+                  <bestandsnaam>VierkantenAmsterdam.gml</bestandsnaam>
+                  <hash>0ac1f2426e6b94290010158bfe7177300a05a1c83ac1e57b431924542706d7345335c8a6be3f59621fd577562632496e4a37205b2c388d6b25c8cc60369e2b72</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,10 +27,10 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Oosterparkbuurt_2</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1_VierkantenAmsterdam_2</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <naamInformatieObject>Oosterparkbuurt</naamInformatieObject>
+         <naamInformatieObject>Vierkanten</naamInformatieObject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>

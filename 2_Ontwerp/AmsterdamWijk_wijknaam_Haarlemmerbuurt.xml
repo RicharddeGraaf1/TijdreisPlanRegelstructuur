@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt/nld@2022;2;ontwerp</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_Haarlemmerbuurt</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_Haarlemmerbuurt/nld@2022;2;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>AmsterdamWijk_wijknaam_Haarlemmerbuurt.gml</bestandsnaam>
-                  <hash>8923f7e81cf498e5e1e71a41ce8bae9f7bb1b7393f120020bb25fd34dd7cb3468af6506df34116db9a3088c352d951a49e14ea613b46b6b0fd09c392986c342a</hash>
+                  <hash>2b8f6752b3e09a12d66b6e4380e23e64247b8b4137155bb664f47350ae1f932635ad517c6503ba363d72698b0b3a98b22b16823ca0f23a609bd616d055ce6ecb</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1_Haarlemmerbuurt</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_Haarlemmerbuurt</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Haarlemmerbuurt</naamInformatieObject>

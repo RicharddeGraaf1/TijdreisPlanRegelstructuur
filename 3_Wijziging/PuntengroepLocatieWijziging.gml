@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/1_PuntengroepLocatieWijziging/nld@2022;2</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/gm0363/2022/1a_PuntengroepLocatieWijziging</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/gm0363/2022/1a_PuntengroepLocatieWijziging/nld@2022;2</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>PuntengroepLocatieWijziging</geo:naam>
