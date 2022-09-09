@@ -6,8 +6,8 @@
                              xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam/nld@2022;1</FRBRExpression>
+         <FRBRWork>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam_2</FRBRWork>
+         <FRBRExpression>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam_2/nld@2022;1</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -16,7 +16,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>VierkantenAmsterdam.gml</bestandsnaam>
-                  <hash>0ac1f2426e6b94290010158bfe7177300a05a1c83ac1e57b431924542706d7345335c8a6be3f59621fd577562632496e4a37205b2c388d6b25c8cc60369e2b72</hash>
+                  <hash>7c2355dbcc94faa45157385bfdb9c6d4442873fa8d2f863e1d64d2d18fff3f22c68ef4884e350c6145685f14307fdfd5433f622e344e882492e0ad2a12608f52</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -27,7 +27,7 @@
          <alternatieveTitels>
             <alternatieveTitel/>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam</officieleTitel>
+         <officieleTitel>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam_2</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>Vierkanten</naamInformatieObject>

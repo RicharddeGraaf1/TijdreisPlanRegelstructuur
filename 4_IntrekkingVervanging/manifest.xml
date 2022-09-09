@@ -84,4 +84,6 @@
    <bestand><bestandsnaam>PuntengroepOngewijzigd.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>TweeLijnen.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
    <bestand><bestandsnaam>TweeLijnen.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>VierkantenAmsterdam.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
+   <bestand><bestandsnaam>VierkantenAmsterdam.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
 </manifest>

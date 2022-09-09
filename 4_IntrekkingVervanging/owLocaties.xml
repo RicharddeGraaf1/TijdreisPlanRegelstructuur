@@ -19,6 +19,10 @@
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
             <sl:objectType>Gebiedengroep</sl:objectType>
+            <sl:objectType>Lijn</sl:objectType>
+            <sl:objectType>Lijnengroep</sl:objectType>
+            <sl:objectType>Punt</sl:objectType>
+            <sl:objectType>Puntengroep</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <!--      <sl:stand>

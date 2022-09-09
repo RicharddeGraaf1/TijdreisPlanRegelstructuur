@@ -59,6 +59,7 @@
             <informatieobjectRef>/join/id/regdata/gm0363/2022/1a_PuntengroepNaamWijziging_2/nld@2022;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0363/2022/1a_PuntengroepLocatieWijziging_2/nld@2022;2</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0363/2022/1a_PuntengroepIntrekkenVervangen_2/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam_2/nld@2022;1</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -341,7 +342,14 @@
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0363/2022/1a_Volewijck_2/nld@2022;1</instrumentVersie>
                <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_27__ref_o_1</eId>
-            </BeoogdInformatieobject>            
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/IntrEnVervangenTijdreisPlan</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam_2/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_38__ref_o_1</eId>
+            </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Intrekkingen>
             <Intrekking>
@@ -1733,7 +1741,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_38__ref_o_1"
                                               wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_38__ref_o_1"
-                                              ref="/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam/nld@2022;1">/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam_2/nld@2022;1</ExtIoRef>
+                                              ref="/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam_2/nld@2022;1">/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam_2/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
