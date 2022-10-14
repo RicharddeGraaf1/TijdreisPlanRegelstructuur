@@ -74,6 +74,7 @@
    <bestand><bestandsnaam>owGebiedsaanwijzing.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>owLocaties.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>owOmgevingsnormOmgevingswaarde.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>owPons.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>owRegelingsgebied.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>owRegeltekst.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>PuntengroepBeeindiging.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>

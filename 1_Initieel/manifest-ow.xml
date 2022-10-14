@@ -29,6 +29,10 @@
          <objecttype>Lijn</objecttype>
       </Bestand>
       <Bestand>
+         <naam>owPons.xml</naam>
+         <objecttype>Pons</objecttype>
+      </Bestand>
+      <Bestand>
          <naam>owRegeltekst.xml</naam>
          <objecttype>Regeltekst</objecttype>
          <objecttype>RegelVoorIedereen</objecttype>

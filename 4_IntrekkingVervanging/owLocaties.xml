@@ -143,5 +143,31 @@
             </l:Punt>
          </ow-dc:owObject>
       </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.Pons2</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenNieuweZijde"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenOudeZijde"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.Haarlemmerbuurt"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.Pons3</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenNieuweZijde"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenOudeZijde"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.Haarlemmerbuurt"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.OostelijkHavengebied"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>

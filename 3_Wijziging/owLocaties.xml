@@ -282,13 +282,36 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
-               
                <l:identificatie>nl.imow-gm0363.gebied.vierkantje5</l:identificatie>
                <l:noemer>vierkantje 5</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="15b16cfe-99c1-4865-8af1-cf38fe6a6f4c"/>
                </l:geometrie>
             </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.Pons</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenNieuweZijde"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenOudeZijde"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.Pons2</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenNieuweZijde"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenOudeZijde"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.Haarlemmerbuurt"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
    </sl:standBestand>
