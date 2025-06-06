@@ -191,7 +191,7 @@
          <ow-dc:owObject>
             <r:Instructieregel>
                <r:identificatie>nl.imow-gm0363.juridischeregel.gm03631chp7art714</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</r:idealisatie>
                <r:artikelOfLid>
                   <r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp7art714"/>
                </r:artikelOfLid>
