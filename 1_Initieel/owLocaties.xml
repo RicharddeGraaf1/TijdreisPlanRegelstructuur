@@ -188,6 +188,7 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-gm0363.gebied.GrachtengordelZuid</l:identificatie>
+               <l:noemer>OudeNoemer</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="90fb6346-05fa-4e0c-b3d1-8c56cd35922e"/>
                </l:geometrie>
@@ -362,7 +363,7 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+      <!--<sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm0363.gebiedengroep.NieuwmarktLastage</l:identificatie>
@@ -382,7 +383,7 @@
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
@@ -404,7 +405,7 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+      <!--<sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm0363.gebiedengroep.NoordelijkeIJoeversWest</l:identificatie>
@@ -424,7 +425,7 @@
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
@@ -467,7 +468,7 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+      <!--<sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm0363.gebiedengroep.Oosterparkbuurt</l:identificatie>
@@ -487,7 +488,7 @@
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
@@ -572,7 +573,7 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+      <!--<sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm0363.gebiedengroep.Volewijck</l:identificatie>
@@ -592,7 +593,7 @@
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
@@ -614,7 +615,7 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+      <!--<sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-gm0363.gebiedengroep.WeesperbuurtPlantage</l:identificatie>
@@ -655,7 +656,7 @@
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <l:Lijnengroep>
@@ -912,6 +913,159 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.GroepABCDEFGHIJ</l:identificatie>
+               <l:noemer>GroepABCDEFGHIJ</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedAprimNaarSec"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedBprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedCprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedDprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedEprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedFsecNaarPrim"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedGsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedHsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedIsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedJsecNaarPrim"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.MutatieGroep</l:identificatie>
+               <l:noemer>Mutatiegroep 2. ABDEFGHIJ, 3. ACDEFGHI</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedAprimNaarSec"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedBprimair"/>
+<!--                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedCprimair"/>-->
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedDprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedEprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedFsecNaarPrim"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedGsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedHsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedIsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedJsecNaarPrim"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.GebiedAprimNaarSec</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="507d6bbd-4c05-45a9-a206-94ba31ea8abf"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.GebiedBprimair</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="1e99dc9d-639d-4384-bbd0-67283e089279"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.GebiedCprimair</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="cfe55fc3-49d9-48cf-aac4-d700c3acd1ea"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.GebiedDprimair</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a4d29dac-b3ac-4546-b49e-7f702eb557f5"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.GebiedEprimair</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="5672bbe9-434a-4d04-ac5c-6126612e6dae"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.GebiedFsecNaarPrim</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="809ba8a7-8b52-4c19-8aa2-dec6225e644c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.GebiedGsecundair</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="94b09d2e-1e4c-49e8-95e1-caee6fd5d30e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.GebiedHsecundair</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6d55722c-1382-440b-9dc1-72c54d56fc0f"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.GebiedIsecundair</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="33f30bec-e9fb-42d3-bd9a-5fe35ab21dc2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-gm0363.gebied.GebiedJsecNaarPrim</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="984b5902-18ae-4a04-8579-a38c8ba03fbc"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!--
+      GebiedAprimNaarSec (primair)
+      GebiedBprimair
+      GebiedCprimair
+      GebiedDprimair
+      GebiedEprimair
+      GebiedFsecNaarPrim (secundair)
+      GebiedGsecundair
+      GebiedHsecundair
+      GebiedIsecundair
+      GebiedJsecNaarPrim (secundair)-->
+      
+      
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>

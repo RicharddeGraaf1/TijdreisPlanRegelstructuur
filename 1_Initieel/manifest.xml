@@ -60,6 +60,8 @@
    <bestand><bestandsnaam>AmsterdamWijk_wijknaam_Weesperbuurt_Plantage.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>AmsterdamWijk_wijknaam_Weesperzijde.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
    <bestand><bestandsnaam>AmsterdamWijk_wijknaam_Weesperzijde.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+   <bestand><bestandsnaam>AmsterdamWijk_wijknaam_zzz_testcontent.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
+   <bestand><bestandsnaam>AmsterdamWijk_wijknaam_zzz_testcontent.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>Amsterdam_besluit.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
    <bestand><bestandsnaam>Lijn1.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
    <bestand><bestandsnaam>Lijn1.xml</bestandsnaam><contentType>application/xml</contentType></bestand>

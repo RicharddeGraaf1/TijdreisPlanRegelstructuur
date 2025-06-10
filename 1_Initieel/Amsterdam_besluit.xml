@@ -2,7 +2,7 @@
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                     schemaversie="1.2.0"
-                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.3/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/gm0363/2022/1_AmsterdamEersteTijdreisplan</FRBRWork>
@@ -63,6 +63,7 @@
             <informatieobjectRef>/join/id/regdata/gm0363/2022/1a_PuntengroepBeeindiging/nld@2022;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0363/2022/1a_PuntengroepIntrekkenVervangen/nld@2022;1</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0363/2022/ABCDEFGHIJ/nld@2022;1</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -373,6 +374,13 @@
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam/nld@2022;1</instrumentVersie>
                <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_41__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2022/InitieelTijdreisPlan</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0363/2022/ABCDEFGHIJ/nld@2022;1</instrumentVersie>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_42__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -1316,6 +1324,96 @@
                            </Subsubparagraaf>
                         </Subparagraaf>
                      </Paragraaf>
+                     <Paragraaf eId="chp_9__subsec_9.2" wId="gm0363_1__chp_9__subsec_9.2">
+                        <Kop>
+                           <Label>Paragraaf</Label>
+                           <Nummer>9.1</Nummer>
+                           <Opschrift>Paragraaf van tests primair/secundair</Opschrift>
+                        </Kop>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.2" eId="chp_9__subsec_9.2__art_9.2">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.2</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GroepABCDEFGHIJ</Al></Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.3" eId="chp_9__subsec_9.2__art_9.3">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.3</Nummer>
+                           </Kop>
+                           <Inhoud><Al>MutatieGroep</Al></Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.4" eId="chp_9__subsec_9.2__art_9.4">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.4</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GebiedAprimNaarSec</Al></Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.5" eId="chp_9__subsec_9.2__art_9.5">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.5</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GebiedBprimair</Al></Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.6" eId="chp_9__subsec_9.2__art_9.6">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.6</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GebiedCprimair</Al></Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.7" eId="chp_9__subsec_9.2__art_9.7">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.7</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GebiedDprimair</Al></Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.8" eId="chp_9__subsec_9.2__art_9.8">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.8</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GebiedEprimair</Al></Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.9" eId="chp_9__subsec_9.2__art_9.9">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.9</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GebiedFsecNaarPrim (secundair)</Al></Inhoud>
+                        </Artikel><Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.10" eId="chp_9__subsec_9.2__art_9.10">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.10</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GebiedGsecundair</Al></Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.11" eId="chp_9__subsec_9.2__art_9.11">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.11</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GebiedHsecundair</Al></Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.12" eId="chp_9__subsec_9.2__art_9.12">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.12</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GebiedIsecundair</Al></Inhoud>
+                        </Artikel>
+                        <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.13" eId="chp_9__subsec_9.2__art_9.13">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>9.13</Nummer>
+                           </Kop>
+                           <Inhoud><Al>GebiedJsecNaarPrim (secundair)</Al></Inhoud>
+                        </Artikel>
+                     </Paragraaf>
                   </Hoofdstuk>
                </Lichaam>
                <Bijlage eId="cmp_I" wId="gm0363_1__cmp_I">
@@ -1776,6 +1874,17 @@
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_41__ref_o_1"
                                               wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_41__ref_o_1"
                                               ref="/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam/nld@2022;1">/join/id/regdata/gm0363/2022/1a_VierkantenAmsterdam/nld@2022;1</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_42"
+                              wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_42">
+                              <Term>4-3-3 ABCDEFGHIJ testcontent</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_42__ref_o_1"
+                                       wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_42__ref_o_1"
+                                       ref="/join/id/regdata/gm0363/2022/ABCDEFGHIJ/nld@2022;1">/join/id/regdata/gm0363/2022/ABCDEFGHIJ/nld@2022;1</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
