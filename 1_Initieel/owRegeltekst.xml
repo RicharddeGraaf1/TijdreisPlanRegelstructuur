@@ -1795,7 +1795,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0363.regeltekst.gm03631chp9art92"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.GroepABCDEFGHIJ"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0363.gebiedengroep.GroepABDEFHIJ"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>

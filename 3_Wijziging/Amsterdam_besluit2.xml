@@ -2,7 +2,7 @@
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                     schemaversie="1.2.0"
-                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.3/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/gm0363/2022/AmsterdamWijzigingsBesluit</FRBRWork>
@@ -194,25 +194,55 @@
             <RegelingMutatie componentnaam="wijziging"
                              was="/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur/nld@1"
                              wordt="/akn/nl/act/gm0363/2022/TijdreisPlanRegelstructuur/nld@2">
-               <Vervang wat="body">
+            <Vervang wat="body">
                   <Lichaam eId="body" wId="body">
-                        <Hoofdstuk eId="chp_1" wId="gm0363_1__chp_1">
+                     <Hoofdstuk eId="chp_1" wId="gm0363_1__chp_1">
+                        <Kop>
+                           <Label>Hoofdstuk</Label>
+                           <Nummer>1</Nummer>
+                           <Opschrift>Datums van Wijzigen</Opschrift>
+                        </Kop>
+                        <Artikel eId="chp_1__art_1.1" wId="gm0363_1__chp_1__art_1.1">
                            <Kop>
-                              <Label>Hoofdstuk</Label>
-                              <Nummer>1</Nummer>
-                              <Opschrift>Algemene bepalingen</Opschrift>
+                              <Label>Artikel</Label>
+                              <Nummer>1.1</Nummer>
+                              <Opschrift>Initieel</Opschrift>
                            </Kop>
-                           <Artikel eId="chp_1__art_1.4" wId="gm0363_1__chp_1__art_1.4">
-                              <Kop>
-                                 <Label>Artikel</Label>
-                                 <Nummer>1.4</Nummer>
-                                 <Opschrift>Toepassingsgebied</Opschrift>
-                              </Kop>
-                              <Inhoud>
-                                 <Al>Dit omgevingsplan is van toepassing in Amsterdam. <NieuweTekst> Als je dit leest dan kijk je naar het Omgevingsplan na 04-04 en voor 07-07.</NieuweTekst></Al>
-                              </Inhoud>
-                           </Artikel>
-                        </Hoofdstuk>
+                           <Inhoud>
+                              <Al>De initiële regeling is wel aangeleverd op het moment dat je dit bekijkt.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_1__art_1.2" wId="gm0363_1__chp_1__art_1.2">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>1.2</Nummer>
+                              <Opschrift>Eerste wijziging</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>De eerste wijziging is niet gerealiseerd op het moment dat je dit bekijkt, dit is het ontwerp.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_1__art_1.3" wId="gm0363_1__chp_1__art_1.3">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>1.3</Nummer>
+                              <Opschrift>IntrekkenVervangen</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>IntrekkenVervangen is niet gerealiseerd op het moment dat je dit bekijkt.</Al>
+                           </Inhoud>
+                        </Artikel>
+                        <Artikel eId="chp_1__art_1.4" wId="gm0363_1__chp_1__art_1.4">
+                           <Kop>
+                              <Label>Artikel</Label>
+                              <Nummer>1.4</Nummer>
+                              <Opschrift>Toepassingsgebied</Opschrift>
+                           </Kop>
+                           <Inhoud>
+                              <Al>Dit omgevingsplan is van toepassing in Amsterdam.</Al>
+                           </Inhoud>
+                        </Artikel>
+                     </Hoofdstuk>
                         <Hoofdstuk eId="chp_2" wId="gm0363_1__chp_2">
                            <Kop>
                               <Label>Hoofdstuk</Label>
@@ -948,7 +978,7 @@
                                  </Al>
                               </Inhoud>
                            </Artikel>
-                           <Artikel eId="chp_7__art_7.13" wId="gm0363_1__chp_7__art_7.13">
+                           <Artikel eId="chp_7__art_7.13" wId="gm0363_1__chp_7__art_7.13" wijzigactie="voegtoe">
                               <Kop>
                                  <Label>Artikel</Label>
                                  <Nummer>7.13</Nummer>
@@ -958,7 +988,7 @@
                                  <Al>Eigenlijk kan het niet in een omgevingsplan, maar goed hierbij een instructieregel adressaat toegevoegd artikel vanuit het ontwerp.</Al>
                               </Inhoud>
                            </Artikel>
-                           <Artikel eId="chp_7__art_7.14" wId="gm0363_1__chp_7__art_7.14">
+                           <Artikel eId="chp_7__art_7.14" wId="gm0363_1__chp_7__art_7.14" wijzigactie="voegtoe">
                               <Kop>
                                  <Label>Artikel</Label>
                                  <Nummer>7.14</Nummer>
@@ -1066,6 +1096,97 @@
                               </Subsubparagraaf>
                            </Subparagraaf>
                         </Paragraaf>
+                        <Paragraaf eId="chp_9__subsec_9.2" wId="gm0363_1__chp_9__subsec_9.2">
+                           <Kop>
+                              <Label>Paragraaf</Label>
+                              <Nummer>9.2</Nummer>
+                              <Opschrift>Paragraaf van tests primair/secundair</Opschrift>
+                           </Kop>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.2" eId="chp_9__subsec_9.2__art_9.2">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.2</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GroepABCDEFGHIJ</Al></Inhoud>
+                           </Artikel>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.3" eId="chp_9__subsec_9.2__art_9.3">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.3</Nummer>
+                              </Kop>
+                              <Inhoud><Al>MutatieGroep</Al></Inhoud>
+                           </Artikel>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.4" eId="chp_9__subsec_9.2__art_9.4">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.4</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GebiedAprimNaarSec</Al></Inhoud>
+                           </Artikel>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.5" eId="chp_9__subsec_9.2__art_9.5">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.5</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GebiedBprimair</Al></Inhoud>
+                           </Artikel>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.6" eId="chp_9__subsec_9.2__art_9.6">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.6</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GebiedCprimair</Al></Inhoud>
+                           </Artikel>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.7" eId="chp_9__subsec_9.2__art_9.7">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.7</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GebiedDprimair</Al></Inhoud>
+                           </Artikel>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.8" eId="chp_9__subsec_9.2__art_9.8">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.8</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GebiedEprimair</Al></Inhoud>
+                           </Artikel>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.9" eId="chp_9__subsec_9.2__art_9.9">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.9</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GebiedFsecNaarPrim (secundair)</Al></Inhoud>
+                           </Artikel><Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.10" eId="chp_9__subsec_9.2__art_9.10">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.10</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GebiedGsecundair</Al></Inhoud>
+                           </Artikel>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.11" eId="chp_9__subsec_9.2__art_9.11">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.11</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GebiedHsecundair</Al></Inhoud>
+                           </Artikel>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.12" eId="chp_9__subsec_9.2__art_9.12">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.12</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GebiedIsecundair</Al></Inhoud>
+                           </Artikel>
+                           <Artikel wId="gm0363_1__chp_9__subsec_9.2__art_9.13" eId="chp_9__subsec_9.2__art_9.13">
+                              <Kop>
+                                 <Label>Artikel</Label>
+                                 <Nummer>9.13</Nummer>
+                              </Kop>
+                              <Inhoud><Al>GebiedJsecNaarPrim (secundair)</Al></Inhoud>
+                           </Artikel>
+                        </Paragraaf>
+                        
                      </Hoofdstuk>
                      </Lichaam>
                </Vervang>
@@ -1176,7 +1297,7 @@
                                        <Al>
                                           <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
                                                     wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                                    ref="/join/id/regdata/gm0363/2022/1a_Haarlemmerbuurt/nld@2022;2">/join/id/regdata/gm0363/2022/1a_Haarlemmerbuurt/nld@2022;2</ExtIoRef>
+                                                    ref="/join/id/regdata/gm0363/2022/1a_Haarlemmerbuurt/nld@2022;2;ontwerp">/join/id/regdata/gm0363/2022/1a_Haarlemmerbuurt/nld@2022;2;ontwerp</ExtIoRef>
                                        </Al>
                                     </Definitie>
                                  </Begrip>
@@ -1420,7 +1541,7 @@
                                        <Al>
                                           <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1"
                                                     wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_31__ref_o_1"
-                                                    ref="/join/id/regdata/gm0363/2022/1a_MultiLijn/nld@2022;2">/join/id/regdata/gm0363/2022/1a_MultiLijn/nld@2022;2</ExtIoRef>
+                                                    ref="/join/id/regdata/gm0363/2022/1a_MultiLijn/nld@2022;2;ontwerp">/join/id/regdata/gm0363/2022/1a_MultiLijn/nld@2022;2;ontwerp</ExtIoRef>
                                        </Al>
                                     </Definitie>
                                  </Begrip>
@@ -1499,7 +1620,7 @@
                                        <Al>
                                           <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_38__ref_o_1"
                                                     wId="gm0363_1__cmp_I__content_o_1__list_o_1__item_o_38__ref_o_1"
-                                                    ref="/join/id/regdata/gm0363/2022/1a_PuntengroepLocatieWijziging/nld@2022;2">/join/id/regdata/gm0363/2022/1a_PuntengroepLocatieWijziging/nld@2022;2</ExtIoRef>
+                                                    ref="/join/id/regdata/gm0363/2022/1a_PuntengroepLocatieWijziging/nld@2022;2;ontwerp">/join/id/regdata/gm0363/2022/1a_PuntengroepLocatieWijziging/nld@2022;2;ontwerp</ExtIoRef>
                                        </Al>
                                     </Definitie>
                                  </Begrip>
@@ -1541,7 +1662,7 @@
                            </Inhoud>
                         </Divisietekst>
                      </Bijlage>
-               </Vervang>
+               </Vervang>   
             </RegelingMutatie>
          </WijzigBijlage>
       </BesluitCompact>

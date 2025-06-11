@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<validatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb">
-  <idLevering>RdG_1_TijdreizenAmsterdam-initieel_005</idLevering>
+<publicatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb">
+  <idLevering>RdG_1_TijdreizenAmsterdam-initieel_007</idLevering>
   <!--Om de keten in te krijgen kun je gebruik maken van: 00000001003214345000 
   Dit is de OIN van ministerie van BZK, de OIN van de gemeente zaltbommel is nog niet gemachtigd.-->
   <idBevoegdGezag>00000001002311112000</idBevoegdGezag> 
   <idAanleveraar>00000003560458830000</idAanleveraar><!--voor landgoed IT 00000003560458830000-->
    <publicatie>Amsterdam_besluit.xml</publicatie>
   <datumBekendmaking>2025-06-11</datumBekendmaking>
-</validatieOpdracht>
+</publicatieOpdracht>

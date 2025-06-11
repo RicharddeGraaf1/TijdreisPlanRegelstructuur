@@ -317,5 +317,47 @@
             </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.MutatieGroep</l:identificatie>
+               <l:noemer>Mutatiegroep 2. ABDEFIJ, 3. ACDEFGHI</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedAprimNaarSec"/>
+                  <!--<l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedBprimair"/>-->
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedCprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedDprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedEprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedFsecNaarPrim"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedGsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedHsecundair"/>
+                  <!--<l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedIsecundair"/>-->
+                  <!--<l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedJsecNaarPrim"/>-->
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <ow:procedurestatus>ontwerp</ow:procedurestatus>
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.GroepABDEFHIJ</l:identificatie>
+               <l:noemer>GroepACDEFHIJ</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedAprimNaarSec"/>
+<!--                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedBprimair"/>-->
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedCprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedDprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedEprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedFsecNaarPrim"/>
+                  <!--                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedGsecundair"/>-->
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedHsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedIsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedJsecNaarPrim"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>

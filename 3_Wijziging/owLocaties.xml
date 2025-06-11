@@ -253,7 +253,7 @@
             </l:Gebiedengroep>
          </ow-dc:owObject>
       </sl:stand>
-      <!--<sl:stand> <ow-dc:owObject> <l:Gebied> <l:identificatie>nl.imow-gm0363.gebied.vierkantje1</l:identificatie> <l:noemer>vierkantje 1</l:noemer> <l:geometrie> <l:GeometrieRef xlink:href="3ae2a0aa-d460-41bd-a0d1-e6e522348836"/> </l:geometrie> </l:Gebied> </ow-dc:owObject> </sl:stand>-->
+<!--<sl:stand> <ow-dc:owObject> <l:Gebied> <l:identificatie>nl.imow-gm0363.gebied.vierkantje1</l:identificatie> <l:noemer>vierkantje 1</l:noemer> <l:geometrie> <l:GeometrieRef xlink:href="3ae2a0aa-d460-41bd-a0d1-e6e522348836"/> </l:geometrie> </l:Gebied> </ow-dc:owObject> </sl:stand>-->
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
@@ -282,6 +282,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
+               
                <l:identificatie>nl.imow-gm0363.gebied.vierkantje5</l:identificatie>
                <l:noemer>vierkantje 5</l:noemer>
                <l:geometrie>
@@ -294,6 +295,7 @@
          <ow-dc:owObject>
             <l:Gebiedengroep>
                <ow:status>beëindigen</ow:status>
+               
                <l:identificatie>nl.imow-gm0363.gebiedengroep.Pons</l:identificatie>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenNieuweZijde"/>
@@ -305,11 +307,54 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebiedengroep>
+               
                <l:identificatie>nl.imow-gm0363.gebiedengroep.Pons2</l:identificatie>
                <l:groepselement>
                   <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenNieuweZijde"/>
                   <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.BurgwallenOudeZijde"/>
                   <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.Haarlemmerbuurt"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.MutatieGroep</l:identificatie>
+               <l:noemer>Mutatiegroep 2. ABDEFIJ, 3. ACDEFGHI</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedAprimNaarSec"/>
+                  <!--<l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedBprimair"/>-->
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedCprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedDprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedEprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedFsecNaarPrim"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedGsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedHsecundair"/>
+                  <!--<l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedIsecundair"/>-->
+                  <!--<l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedJsecNaarPrim"/>-->
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               
+               <l:identificatie>nl.imow-gm0363.gebiedengroep.GroepABDEFHIJ</l:identificatie>
+               <l:noemer>GroepACDEFHIJ</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedAprimNaarSec"/>
+<!--                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedBprimair"/>-->
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedCprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedDprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedEprimair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedFsecNaarPrim"/>
+                  <!--                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedGsecundair"/>-->
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedHsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedIsecundair"/>
+                  <l:GebiedRef xlink:href="nl.imow-gm0363.gebied.GebiedJsecNaarPrim"/>
                </l:groepselement>
             </l:Gebiedengroep>
          </ow-dc:owObject>
