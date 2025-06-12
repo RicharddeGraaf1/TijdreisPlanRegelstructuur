@@ -81,13 +81,13 @@
                <ow-dc:owObject>
                      <r:Regeltekst wId="gm0363_1__chp_7__art_7.8">
                            <op:status>beëindigen</op:status>
-                           <op:procedurestatus>ontwerp</op:procedurestatus>
+                           
                            <r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp7art78</r:identificatie>
                      </r:Regeltekst>
                </ow-dc:owObject>
          </sl:stand>
-     <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_7__art_7.13"><op:procedurestatus>ontwerp</op:procedurestatus><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp7art713</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
-     <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_7__art_7.14"><op:procedurestatus>ontwerp</op:procedurestatus><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp7art714</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
+     <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_7__art_7.13"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp7art713</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
+     <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_7__art_7.14"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp7art714</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
 
      <!--<sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_8__art_8.1"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp8art81</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
      <sl:stand><ow-dc:owObject><r:Regeltekst wId="gm0363_1__chp_8__art_8.2"><r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp8art82</r:identificatie></r:Regeltekst></ow-dc:owObject></sl:stand>
@@ -98,7 +98,7 @@
                <ow-dc:owObject>
                      <r:Regeltekst wId="gm0363_1__chp_9__subsec_9.2__art_9.4">
                            <op:status>beëindigen</op:status>
-                           <op:procedurestatus>ontwerp</op:procedurestatus>
+                           
                            <r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp9art94</r:identificatie>
                      </r:Regeltekst>
                </ow-dc:owObject>
@@ -106,7 +106,7 @@
          <sl:stand>
                <ow-dc:owObject>
                      <r:Regeltekst wId="gm0363_1__chp_9__subsec_9.2__art_9.9">
-                           <op:procedurestatus>ontwerp</op:procedurestatus>
+                           
                            <r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp9art99</r:identificatie>
                      </r:Regeltekst>
                </ow-dc:owObject>
@@ -114,7 +114,7 @@
          <sl:stand>
                <ow-dc:owObject>
                      <r:Regeltekst wId="gm0363_1__chp_9__subsec_9.2__art_9.13">
-                           <op:procedurestatus>ontwerp</op:procedurestatus>
+                           
                            <r:identificatie>nl.imow-gm0363.regeltekst.gm03631chp9art913</r:identificatie>
                      </r:Regeltekst>
                </ow-dc:owObject>
